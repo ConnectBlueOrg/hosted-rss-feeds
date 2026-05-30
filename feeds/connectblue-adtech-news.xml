@@ -1,867 +1,1024 @@
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>ConnectBlue Political Ad Tech News</title>
-    <link>https://connectblue.org</link>
-    <description>Latest news on political advertising technology, ad tech trends, and campaign innovation for the 2026 midterm elections.</description>
+    <description>Latest news and analysis on political advertising technology, campaign strategy, and election trends.</description>
+    <link>https://connectblueorg.com</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2026 20:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 19:47:19 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <ns0:link href="https://connectblueorg.com/feeds/connectblue-adtech-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Attack ads are reaching record levels in the 2026 race</title>
+      <link>https://www.instagram.com/p/DY9n3CTCWt3/</link>
+      <guid isPermaLink="true">https://www.instagram.com/p/DY9n3CTCWt3/</guid>
+      <pubDate>Sat, 30 May 2026 19:45:39 GMT</pubDate>
+      <description>Attack ads now comprise 72% of campaign ad budgets in 2026—a record-breaking increase from 2022. This spending surge reflects intensified competitive battles and signals dramatic shifts in campaign strategy and media buying priorities.</description>
+      <category>Multiple sources</category>
+      <ns1:encoded>&lt;![CDATA[Attack ads now comprise 72% of campaign ad budgets in 2026—a record-breaking increase from 2022. This spending surge reflects intensified competitive battles and signals dramatic shifts in campaign strategy and media buying priorities.]]&gt;</ns1:encoded>
+    </item>
+    <item>
+      <title>Can AI Improve Trust Between Political Campaigns And Voters?</title>
+      <link>https://techtalksnetwork.com/podcast/tech-talks-daily/episode/can-ai-improve-trust-between-political-campaigns-and-voters</link>
+      <guid isPermaLink="true">https://techtalksnetwork.com/podcast/tech-talks-daily/episode/can-ai-improve-trust-between-political-campaigns-and-voters</guid>
+      <pubDate>Sat, 30 May 2026 19:45:31 GMT</pubDate>
+      <description>Convos, a new platform co-founded by Tom Carroll, is rethinking political SMS communications with AI-powered conversational intelligence. The platform manages voter reply streams, prioritizes interactions, and enables genuine two-way engagement at scale—shifting SMS from broadcast to conversation.</description>
+      <category>Tech Talks Daily</category>
+      <ns1:encoded>&lt;![CDATA[Convos, a new platform co-founded by Tom Carroll, is rethinking political SMS communications with AI-powered conversational intelligence. The platform manages voter reply streams, prioritizes interactions, and enables genuine two-way engagement at scale—shifting SMS from broadcast to conversation.]]&gt;</ns1:encoded>
+    </item>
+    <item>
+      <title>Inside the Democratic resistance on AI</title>
+      <link>https://www.axios.com/2026/05/29/inside-democratic-resistance-ai</link>
+      <guid isPermaLink="true">https://www.axios.com/2026/05/29/inside-democratic-resistance-ai</guid>
+      <pubDate>Sat, 30 May 2026 19:45:24 GMT</pubDate>
+      <description>Progressive Democrats (Sanders, AOC, Khanna, Warren) are mounting coordinated opposition to AI deployment, data centers, and AI-backed Super PACs. This represents a major policy shift that will directly restrict funding mechanisms and technology choices for 2026 campaigns.</description>
+      <category>Axios</category>
+      <ns1:encoded>&lt;![CDATA[Progressive Democrats (Sanders, AOC, Khanna, Warren) are mounting coordinated opposition to AI deployment, data centers, and AI-backed Super PACs. This represents a major policy shift that will directly restrict funding mechanisms and technology choices for 2026 campaigns.]]&gt;</ns1:encoded>
+    </item>
+    <item>
+      <title>Powerful A.I. Super PACs Duel Over the Midterms: 'This Is a War'</title>
+      <link>https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html</guid>
+      <pubDate>Sat, 30 May 2026 19:45:16 GMT</pubDate>
+      <description>Anthropic-backed and OpenAI-backed Super PACs are spending millions on rival campaign operations in 2026 midterms. This represents a fundamental shift in how tech companies compete through political spending—and a new category of political ad buyer for campaigns to navigate.</description>
+      <category>New York Times</category>
+      <ns1:encoded>&lt;![CDATA[Anthropic-backed and OpenAI-backed Super PACs are spending millions on rival campaign operations in 2026 midterms. This represents a fundamental shift in how tech companies compete through political spending—and a new category of political ad buyer for campaigns to navigate.]]&gt;</ns1:encoded>
+    </item>
+    <item>
+      <title>ICE's call for data is stirring advertisers to push for privacy protections</title>
+      <link>https://www.politico.com/news/2026/05/30/ice-immigration-privacy-data-advertising-00939078</link>
+      <guid isPermaLink="true">https://www.politico.com/news/2026/05/30/ice-immigration-privacy-data-advertising-00939078</guid>
+      <pubDate>Sat, 30 May 2026 19:45:09 GMT</pubDate>
+      <description>ICE is seeking to purchase commercial adtech data for immigration enforcement investigations—prompting industry-wide alarm over data misuse and regulatory backlash. Campaigns must prepare for stricter data handling compliance and potential restrictions on audience data availability.</description>
+      <category>Politico</category>
+      <ns1:encoded>&lt;![CDATA[ICE is seeking to purchase commercial adtech data for immigration enforcement investigations—prompting industry-wide alarm over data misuse and regulatory backlash. Campaigns must prepare for stricter data handling compliance and potential restrictions on audience data availability.
+
+&lt;img src="https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F45%2Fc7%2Fcbf1094e4b8b96845046fddf1271%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2224826447" alt="Story image" /&gt;]]&gt;</ns1:encoded>
+    </item>
     <item>
       <title>Bionic Adds 66 More Integrations to its Media Buying System—Now 130+ Platforms</title>
       <link>https://www.bionic-ads.com/2026/05/bionic-adds-66-more-integrations-to-its-media-buying-system/</link>
       <guid isPermaLink="true">https://www.bionic-ads.com/2026/05/bionic-adds-66-more-integrations-to-its-media-buying-system/</guid>
-      <pubDate>Tue, 26 May 2026 14:59:34 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 14:59:34 GMT</pubDate>
       <description>Bionic expanded to 130+ platform integrations via Supermetrics partnership, enabling agencies to centralize media planning data from Amazon DSP, Google DV360, The Trade Desk, Meta, TikTok, YouTube and all major platforms. Automated nightly data pulls eliminate manual spreadsheets. Real-time pacing and optimization mean budget adjustments in hours, not weeks. Competitive advantage: daily performance monitoring.</description>
       <category>Bionic Advertising Systems</category>
-      <content:encoded>&lt;p&gt;Bionic expanded to 130+ platform integrations via Supermetrics partnership, enabling agencies to centralize media planning data from Amazon DSP, Google DV360, The Trade Desk, Meta, TikTok, YouTube and all major platforms. Automated nightly data pulls eliminate manual spreadsheets. Real-time pacing and optimization mean budget adjustments in hours, not weeks. Competitive advantage: daily performance monitoring.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://www.bionic-ads.com/wp-content/uploads/2026/05/Bionic-Adds-66-Integrations.jpg&quot; alt=&quot;Bionic Adds 66 More Integrations to its Media Buying System—Now 130+ Platforms&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Bionic expanded to 130+ platform integrations via Supermetrics partnership, enabling agencies to centralize media planning data from Amazon DSP, Google DV360, The Trade Desk, Meta, TikTok, YouTube and all major platforms. Automated nightly data pulls eliminate manual spreadsheets. Real-time pacing and optimization mean budget adjustments in hours, not weeks. Competitive advantage: daily performance monitoring.
+
+&lt;img src="https://www.bionic-ads.com/wp-content/uploads/2026/05/Bionic-Adds-66-Integrations.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Ohio voters will see more AI political content this election cycle</title>
       <link>https://www.dispatch.com/story/news/politics/state/2026/05/26/ohio-politics-ai-deepfakes-campaign-ads/89992517007/</link>
       <guid isPermaLink="true">https://www.dispatch.com/story/news/politics/state/2026/05/26/ohio-politics-ai-deepfakes-campaign-ads/89992517007/</guid>
-      <pubDate>Tue, 26 May 2026 14:59:34 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 14:59:34 GMT</pubDate>
       <description>AI deepfakes are now standard-issue attack ads in Ohio's 2026 primary. Video deepfakes are indistinguishable from authentic content without specialized detection software. Campaigns must plan for AI-generated attack messaging and voter education on spotting fabricated content is becoming a competitive factor. Legal/regulatory framework remains undefined at federal level.</description>
       <category>Columbus Dispatch</category>
+      <ns1:encoded>&lt;![CDATA[AI deepfakes are now standard-issue attack ads in Ohio's 2026 primary. Video deepfakes are indistinguishable from authentic content without specialized detection software. Campaigns must plan for AI-generated attack messaging and voter education on spotting fabricated content is becoming a competitive factor. Legal/regulatory framework remains undefined at federal level.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Steven's Newsletter - May 26, 2026: CTV Upfront Tipping Point and the Reality of Agentic Advertising</title>
       <link>https://stevengolus.substack.com/p/stevens-newsletter-may-26-2026</link>
       <guid isPermaLink="true">https://stevengolus.substack.com/p/stevens-newsletter-may-26-2026</guid>
-      <pubDate>Tue, 26 May 2026 14:59:34 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 14:59:34 GMT</pubDate>
       <description>Connected TV upfront dollars now exceed linear TV for the first time—CTV upfronts are the only growing channel. Campaigns without scaled CTV by Q3 face inventory premiums. Autonomous ad buying only works for 10-20% of campaigns; complex political media plans still require human strategists. This is the structural shift separating 2026 winners from laggards.</description>
       <category>Steven's Newsletter / Substack</category>
-      <content:encoded>&lt;p&gt;Connected TV upfront dollars now exceed linear TV for the first time—CTV upfronts are the only growing channel. Campaigns without scaled CTV by Q3 face inventory premiums. Autonomous ad buying only works for 10-20% of campaigns; complex political media plans still require human strategists. This is the structural shift separating 2026 winners from laggards.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://substackcdn.com/image/fetch/$s_!Clf8!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fstevengolus.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1857321377%26version%3D9&quot; alt=&quot;Steven's Newsletter - May 26, 2026: CTV Upfront Tipping Point and the Reality of Agentic Advertising&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Connected TV upfront dollars now exceed linear TV for the first time—CTV upfronts are the only growing channel. Campaigns without scaled CTV by Q3 face inventory premiums. Autonomous ad buying only works for 10-20% of campaigns; complex political media plans still require human strategists. This is the structural shift separating 2026 winners from laggards.
+
+&lt;img src="https://substackcdn.com/image/fetch/$s_!Clf8!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fstevengolus.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1857321377%26version%3D9" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>California Influencer Disclosures Reveal Hidden Political Spending—$400K Payments with No Disclosure in Federal Races</title>
       <link>https://www.semafor.com/article/05/25/2026/california-influencer-disclosures-offer-a-glimpse-at-how-secret-money-distorts-american-politics</link>
       <guid isPermaLink="true">https://www.semafor.com/article/05/25/2026/california-influencer-disclosures-offer-a-glimpse-at-how-secret-money-distorts-american-politics</guid>
-      <pubDate>Tue, 26 May 2026 14:46:28 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 14:46:28 GMT</pubDate>
       <description>Tom Steyer's California gubernatorial campaign paid influencers $10–$400K+ for political promotion with minimal disclosure. Semafor reports $400K to a single creator, $25K payments to accounts with millions of followers. Federal campaigns still have no influencer spending disclosure requirements—2026 will test enforcement and compliance gaps.</description>
       <category>Semafor</category>
-      <content:encoded>&lt;p&gt;Tom Steyer's California gubernatorial campaign paid influencers $10–$400K+ for political promotion with minimal disclosure. Semafor reports $400K to a single creator, $25K payments to accounts with millions of followers. Federal campaigns still have no influencer spending disclosure requirements—2026 will test enforcement and compliance gaps.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://img.semafor.com/4ae0f2f606c38015a2116101d64428d3eef9ac0e-1440x1080.jpg?rect=0,162,1440,756&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format&quot; alt=&quot;California Influencer Disclosures Reveal Hidden Political Spending—$400K Payments with No Disclosure in Federal Races&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Tom Steyer's California gubernatorial campaign paid influencers $10–$400K+ for political promotion with minimal disclosure. Semafor reports $400K to a single creator, $25K payments to accounts with millions of followers. Federal campaigns still have no influencer spending disclosure requirements—2026 will test enforcement and compliance gaps.
+
+&lt;img src="https://img.semafor.com/4ae0f2f606c38015a2116101d64428d3eef9ac0e-1440x1080.jpg?rect=0,162,1440,756&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Swing Voter Targeting Is Shifting from Demographics to Fandom—Campaigns Are Just Catching Up</title>
       <link>https://campaignsandelections.com/voices/the-new-swing-voters-arent-just-demographics-theyre-fans/</link>
       <guid isPermaLink="true">https://campaignsandelections.com/voices/the-new-swing-voters-arent-just-demographics-theyre-fans/</guid>
-      <pubDate>Tue, 26 May 2026 14:46:28 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 14:46:28 GMT</pubDate>
       <description>Fandom data (influencer communities, shared identity around creators) is now a primary voter targeting dimension. 21% of Americans get news from social media influencers; fandoms function as built-in distribution networks. Campaigns treating voters as demographics will underperform those activating fandom-based communities.</description>
       <category>Campaigns &amp; Elections</category>
-      <content:encoded>&lt;p&gt;Fandom data (influencer communities, shared identity around creators) is now a primary voter targeting dimension. 21% of Americans get news from social media influencers; fandoms function as built-in distribution networks. Campaigns treating voters as demographics will underperform those activating fandom-based communities.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://campaignsandelections.com/wp-content/uploads/2021/07/71518942577f5ff24d7a9d511311447ec1609001c9e725f2fc227e8bdd1aoctet-stream.octet-stream&quot; alt=&quot;Swing Voter Targeting Is Shifting from Demographics to Fandom—Campaigns Are Just Catching Up&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Fandom data (influencer communities, shared identity around creators) is now a primary voter targeting dimension. 21% of Americans get news from social media influencers; fandoms function as built-in distribution networks. Campaigns treating voters as demographics will underperform those activating fandom-based communities.
+
+&lt;img src="https://campaignsandelections.com/wp-content/uploads/2021/07/71518942577f5ff24d7a9d511311447ec1609001c9e725f2fc227e8bdd1aoctet-stream.octet-stream" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Samba TV's Project Gravity Solves the Walled-Garden Problem: Real-Time Identity Across 40+ DSPs</title>
       <link>https://www.mediapost.com/publications/article/415305/samba-tv-enters-identity-wars-with-unbiased-data-e.html</link>
       <guid isPermaLink="true">https://www.mediapost.com/publications/article/415305/samba-tv-enters-identity-wars-with-unbiased-data-e.html</guid>
-      <pubDate>Tue, 26 May 2026 14:46:28 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 14:46:28 GMT</pubDate>
       <description>Samba TV launches Project Gravity—unified voter/consumer identity resolution that activates across 40+ DSPs without platform lock-in. Uses AI vector embedding to match offline voter lists to digital profiles in real-time. Campaigns eliminate data silos and platform-based optimization bias.</description>
       <category>MediaPost</category>
-      <content:encoded>&lt;p&gt;Samba TV launches Project Gravity—unified voter/consumer identity resolution that activates across 40+ DSPs without platform lock-in. Uses AI vector embedding to match offline voter lists to digital profiles in real-time. Campaigns eliminate data silos and platform-based optimization bias.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2026/05/26/sambatv_8hsb1cc.png&quot; alt=&quot;Samba TV's Project Gravity Solves the Walled-Garden Problem: Real-Time Identity Across 40+ DSPs&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Samba TV launches Project Gravity—unified voter/consumer identity resolution that activates across 40+ DSPs without platform lock-in. Uses AI vector embedding to match offline voter lists to digital profiles in real-time. Campaigns eliminate data silos and platform-based optimization bias.
+
+&lt;img src="https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2026/05/26/sambatv_8hsb1cc.png" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Sabio Q1 2026: Programmatic Revenue Grows 1,174% YoY—Political &amp; Advocacy Commitments Hit $5M+</title>
       <link>https://www.sabioholding.com/press-releases/sabio-announces-first-quarter-2026-results</link>
       <guid isPermaLink="true">https://www.sabioholding.com/press-releases/sabio-announces-first-quarter-2026-results</guid>
-      <pubDate>Tue, 26 May 2026 14:46:28 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 14:46:28 GMT</pubDate>
       <description>Sabio secured $5M+ in political and advocacy commitments as programmatic CTV revenues explode. Core business grew 6% YoY; international and programmatic combined represent 62% of Q1 revenue. Early signal of election cycle acceleration.</description>
       <category>Sabio Holdings</category>
+      <ns1:encoded>&lt;![CDATA[Sabio secured $5M+ in political and advocacy commitments as programmatic CTV revenues explode. Core business grew 6% YoY; international and programmatic combined represent 62% of Q1 revenue. Early signal of election cycle acceleration.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Programmatic Audio Expands Advertiser Reach — The Basis &amp; DAX Partnership Unlocks Voter Targeting at Scale</title>
       <link>https://streetfightmag.com/2026/05/26/why-programmatic-audio-is-winning-new-attention-from-advertisers/</link>
       <guid isPermaLink="true">https://streetfightmag.com/2026/05/26/why-programmatic-audio-is-winning-new-attention-from-advertisers/</guid>
-      <pubDate>Tue, 26 May 2026 14:46:28 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 14:46:28 GMT</pubDate>
       <description>Basis and DAX integrate programmatic audio with 60+ political audience datasets—campaigns now activate voter-targeted audio at scale. Audio reaches 80% of adults daily; campaigns ignoring it leave efficiency on the table by Q3 2026.</description>
       <category>Street Fight</category>
-      <content:encoded>&lt;p&gt;Basis and DAX integrate programmatic audio with 60+ political audience datasets—campaigns now activate voter-targeted audio at scale. Audio reaches 80% of adults daily; campaigns ignoring it leave efficiency on the table by Q3 2026.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://streetfightmag.com/wp-content/uploads/Programmatic-Audio-1-e1779739060551.png&quot; alt=&quot;Programmatic Audio Expands Advertiser Reach — The Basis &amp; DAX Partnership Unlocks Voter Targeting at Scale&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Basis and DAX integrate programmatic audio with 60+ political audience datasets—campaigns now activate voter-targeted audio at scale. Audio reaches 80% of adults daily; campaigns ignoring it leave efficiency on the table by Q3 2026.
+
+&lt;img src="https://streetfightmag.com/wp-content/uploads/Programmatic-Audio-1-e1779739060551.png" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Deep Sync Expands Partnership with MiQ to Power Identity-Driven Political Advertising</title>
       <link>https://deepsync.com/collaboration-enables-political-campaigns-to-activate-voter-data-across-programmatic-media-ahead-of-the-2026-u-s-midterm-elections/</link>
       <guid isPermaLink="true">https://deepsync.com/collaboration-enables-political-campaigns-to-activate-voter-data-across-programmatic-media-ahead-of-the-2026-u-s-midterm-elections/</guid>
-      <pubDate>Mon, 25 May 2026 19:09:45 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 19:09:45 GMT</pubDate>
       <description>Voter data to digital activation in hours instead of weeks: Deep Sync + MiQ partnership enables campaigns to match voter files to addressable audiences with ~25% addressability improvement on average (~120% on live campaigns), then activate through MiQ programmatic in under 48 hours. Match rates and speed are now competitive advantages.</description>
       <category>Deep Sync</category>
-      <content:encoded>&lt;p&gt;Voter data to digital activation in hours instead of weeks: Deep Sync + MiQ partnership enables campaigns to match voter files to addressable audiences with ~25% addressability improvement on average (~120% on live campaigns), then activate through MiQ programmatic in under 48 hours. Match rates and speed are now competitive advantages.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://deepsync.com/wp-content/uploads/2026/04/Miq-and-Deep-sync-2-blog-cover.png&quot; alt=&quot;Deep Sync Expands Partnership with MiQ to Power Identity-Driven Political Advertising&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Voter data to digital activation in hours instead of weeks: Deep Sync + MiQ partnership enables campaigns to match voter files to addressable audiences with ~25% addressability improvement on average (~120% on live campaigns), then activate through MiQ programmatic in under 48 hours. Match rates and speed are now competitive advantages.
+
+&lt;img src="https://deepsync.com/wp-content/uploads/2026/04/Miq-and-Deep-sync-2-blog-cover.png" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>How to Evaluate an Advertising Platform for Political Campaigns in 2026</title>
       <link>https://basis.com/insights/how-to-evaluate-an-advertising-platform-for-political-campaigns-in-2026</link>
       <guid isPermaLink="true">https://basis.com/insights/how-to-evaluate-an-advertising-platform-for-political-campaigns-in-2026</guid>
-      <pubDate>Mon, 25 May 2026 19:09:45 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 19:09:45 GMT</pubDate>
       <description>Platform selection now determines campaign speed and efficiency in 2026—48% of budgets run in final 30 days. Omnichannel activation (CTV, audio, display, social, search) from unified workflows eliminates manual handoffs and saves 51 hours per campaign. Political-specific targeting (congressional districts, voter data integrations) and rapid activation separate winners from laggards.</description>
       <category>Basis</category>
-      <content:encoded>&lt;p&gt;Platform selection now determines campaign speed and efficiency in 2026—48% of budgets run in final 30 days. Omnichannel activation (CTV, audio, display, social, search) from unified workflows eliminates manual handoffs and saves 51 hours per campaign. Political-specific targeting (congressional districts, voter data integrations) and rapid activation separate winners from laggards.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://basis.com/wp-content/uploads/2026/05/GettyImages-155377752-1.jpg&quot; alt=&quot;How to Evaluate an Advertising Platform for Political Campaigns in 2026&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Platform selection now determines campaign speed and efficiency in 2026—48% of budgets run in final 30 days. Omnichannel activation (CTV, audio, display, social, search) from unified workflows eliminates manual handoffs and saves 51 hours per campaign. Political-specific targeting (congressional districts, voter data integrations) and rapid activation separate winners from laggards.
+
+&lt;img src="https://basis.com/wp-content/uploads/2026/05/GettyImages-155377752-1.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Video Ad Spending to Set Record for a Midterm Cycle in 2026</title>
       <link>https://campaignsandelections.com/industry-news/video-ad-spending-to-set-record-in-2026/</link>
       <guid isPermaLink="true">https://campaignsandelections.com/industry-news/video-ad-spending-to-set-record-in-2026/</guid>
-      <pubDate>Mon, 25 May 2026 19:09:45 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 19:09:45 GMT</pubDate>
       <description>CTV is the only video channel gaining budget share in 2026—projected at 16% growth vs. 2% decline for local broadcast. Campaigns that scale CTV by Q3 avoid October inventory premiums and CPM spikes that nearly double heading into Election Day.</description>
       <category>Campaigns &amp; Elections</category>
-      <content:encoded>&lt;p&gt;CTV is the only video channel gaining budget share in 2026—projected at 16% growth vs. 2% decline for local broadcast. Campaigns that scale CTV by Q3 avoid October inventory premiums and CPM spikes that nearly double heading into Election Day.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://campaignsandelections.com/wp-content/uploads/2021/07/92791f70d4f3f58b58e3df4eff18cd951ec2becdbdc35d24a5b3634e9e7e.octet-stream&quot; alt=&quot;Video Ad Spending to Set Record for a Midterm Cycle in 2026&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[CTV is the only video channel gaining budget share in 2026—projected at 16% growth vs. 2% decline for local broadcast. Campaigns that scale CTV by Q3 avoid October inventory premiums and CPM spikes that nearly double heading into Election Day.
+
+&lt;img src="https://campaignsandelections.com/wp-content/uploads/2021/07/92791f70d4f3f58b58e3df4eff18cd951ec2becdbdc35d24a5b3634e9e7e.octet-stream" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Influencer Spending Exploding in Campaigns—But Compliance Rules Haven't Caught Up</title>
       <link>https://english.elpais.com/usa/2026-05-25/influencers-who-monetize-their-political-support-the-controversy-in-the-california-governors-race.html</link>
       <guid isPermaLink="true">https://english.elpais.com/usa/2026-05-25/influencers-who-monetize-their-political-support-the-controversy-in-the-california-governors-race.html</guid>
-      <pubDate>Mon, 25 May 2026 19:05:05 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 19:05:05 GMT</pubDate>
       <description>California's governor race reveals influencer-paid-content gap: campaigns paying $10-$400K per influencer endorsement with vague disclosure rules and no unified federal framework. Influencer networks now core spend category with regulatory risk—FEC/FTC enforcement coming in 2027.</description>
       <category>El País</category>
-      <content:encoded>&lt;p&gt;California's governor race reveals influencer-paid-content gap: campaigns paying $10-$400K per influencer endorsement with vague disclosure rules and no unified federal framework. Influencer networks now core spend category with regulatory risk—FEC/FTC enforcement coming in 2027.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://imagenes.elpais.com/resizer/v2/KAO6O2JU6FDODKVSCFXLMYKUWA.jpg?auth=31f0f6b5458e478d82fd55573fe74437a4fd2352b6320deab8ae2756548284c8&amp;width=1200&quot; alt=&quot;Influencer Spending Exploding in Campaigns—But Compliance Rules Haven't Caught Up&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[California's governor race reveals influencer-paid-content gap: campaigns paying $10-$400K per influencer endorsement with vague disclosure rules and no unified federal framework. Influencer networks now core spend category with regulatory risk—FEC/FTC enforcement coming in 2027.
+
+&lt;img src="https://imagenes.elpais.com/resizer/v2/KAO6O2JU6FDODKVSCFXLMYKUWA.jpg?auth=31f0f6b5458e478d82fd55573fe74437a4fd2352b6320deab8ae2756548284c8&amp;width=1200" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
-      <title>LinkedIn Kills &quot;AI Slop&quot;—Volume-Based Content Strategies Now Underperform</title>
+      <title>LinkedIn Kills "AI Slop"—Volume-Based Content Strategies Now Underperform</title>
       <link>https://agilebrandguide.com/yesterdays-marketing-technology-ai-news-may-25-2026</link>
       <guid isPermaLink="true">https://agilebrandguide.com/yesterdays-marketing-technology-ai-news-may-25-2026</guid>
-      <pubDate>Mon, 25 May 2026 19:04:55 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 19:04:55 GMT</pubDate>
       <description>LinkedIn algorithm is actively suppressing AI-generated content without genuine expertise. Authentic thought leadership now wins distribution advantage. Campaigns running volume-based content strategies powered by AI will lose 40-60% reach; strategic pivot to organizer voices required.</description>
       <category>Agile Brand Guide</category>
-      <content:encoded>&lt;p&gt;LinkedIn algorithm is actively suppressing AI-generated content without genuine expertise. Authentic thought leadership now wins distribution advantage. Campaigns running volume-based content strategies powered by AI will lose 40-60% reach; strategic pivot to organizer voices required.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://agilebrandguide.com/wp-content/uploads/2026/04/ABG-_Yesterdays-News-scaled.webp&quot; alt=&quot;LinkedIn Kills &quot;AI Slop&quot;—Volume-Based Content Strategies Now Underperform&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[LinkedIn algorithm is actively suppressing AI-generated content without genuine expertise. Authentic thought leadership now wins distribution advantage. Campaigns running volume-based content strategies powered by AI will lose 40-60% reach; strategic pivot to organizer voices required.
+
+&lt;img src="https://agilebrandguide.com/wp-content/uploads/2026/04/ABG-_Yesterdays-News-scaled.webp" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Federal AI Review Plans Could Reshape Campaign Strategy in 2026</title>
       <link>https://www.thepoliticalgroup.com/news/how-white-house-ai-review-plans-could-reshape-campaign-strategy-in-2026</link>
       <guid isPermaLink="true">https://www.thepoliticalgroup.com/news/how-white-house-ai-review-plans-could-reshape-campaign-strategy-in-2026</guid>
-      <pubDate>Mon, 25 May 2026 19:04:45 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 19:04:45 GMT</pubDate>
       <description>White House federal AI governance framework will force campaign tech compliance overhaul—mandatory federal review replaces state-by-state patchwork, threatening retroactive compliance costs for existing AI tools. Campaigns must audit vendor roadmaps by Q3 to avoid mid-cycle workflow rebuilds.</description>
       <category>The Political Group</category>
+      <ns1:encoded>&lt;![CDATA[White House federal AI governance framework will force campaign tech compliance overhaul—mandatory federal review replaces state-by-state patchwork, threatening retroactive compliance costs for existing AI tools. Campaigns must audit vendor roadmaps by Q3 to avoid mid-cycle workflow rebuilds.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Upfronts 2026: Ad Tech Takes Center Stage</title>
       <link>https://www.mediaplaynews.com/upfronts-2026-ad-tech-takes-center-stage/</link>
       <guid isPermaLink="true">https://www.mediaplaynews.com/upfronts-2026-ad-tech-takes-center-stage/</guid>
-      <pubDate>Sat, 23 May 2026 00:31:04 +0000</pubDate>
+      <pubDate>Sat, 23 May 2026 00:31:04 GMT</pubDate>
       <description>Streaming platforms (Netflix, Disney, Amazon, Warner Bros.) led 2026 Upfronts with ad-tech, not content. Netflix 60% ad-tier adoption. Amazon reaches 90% of US households with authenticated signals. CTV+AI optimization now structural advantage; campaigns with programmatic precision beat linear-TV-only buyers 2-3x on efficiency.</description>
       <category>Media Play News</category>
-      <content:encoded>&lt;p&gt;Streaming platforms (Netflix, Disney, Amazon, Warner Bros.) led 2026 Upfronts with ad-tech, not content. Netflix 60% ad-tier adoption. Amazon reaches 90% of US households with authenticated signals. CTV+AI optimization now structural advantage; campaigns with programmatic precision beat linear-TV-only buyers 2-3x on efficiency.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://cdn.mediaplaynews.com/wp-content/uploads/2026/05/Olivia-Rodrigo-at-2026-Disney-Upfront-scaled-e1778854904942.jpg&quot; alt=&quot;Upfronts 2026: Ad Tech Takes Center Stage&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Streaming platforms (Netflix, Disney, Amazon, Warner Bros.) led 2026 Upfronts with ad-tech, not content. Netflix 60% ad-tier adoption. Amazon reaches 90% of US households with authenticated signals. CTV+AI optimization now structural advantage; campaigns with programmatic precision beat linear-TV-only buyers 2-3x on efficiency.
+
+&lt;img src="https://cdn.mediaplaynews.com/wp-content/uploads/2026/05/Olivia-Rodrigo-at-2026-Disney-Upfront-scaled-e1778854904942.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>How Political Advertising Will Impact the Media Landscape in 2026</title>
       <link>https://basis.com/blog/how-political-advertising-will-impact-the-media-landscape-in-2026</link>
       <guid isPermaLink="true">https://basis.com/blog/how-political-advertising-will-impact-the-media-landscape-in-2026</guid>
-      <pubDate>Sat, 23 May 2026 00:30:49 +0000</pubDate>
+      <pubDate>Sat, 23 May 2026 00:30:49 GMT</pubDate>
       <description>CTV is now the ONLY channel growing in political spend ($2.4B vs. $2.34B 2024). Political dollars concentrate in 5 states. Campaigns without early PMP/PG inventory locks by June face $0.12–$0.18 CPM premiums vs. early movers. Deepfake/AI brand safety risk escalating.</description>
       <category>Basis Technologies</category>
-      <content:encoded>&lt;p&gt;CTV is now the ONLY channel growing in political spend ($2.4B vs. $2.34B 2024). Political dollars concentrate in 5 states. Campaigns without early PMP/PG inventory locks by June face $0.12–$0.18 CPM premiums vs. early movers. Deepfake/AI brand safety risk escalating.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://basis.com/wp-content/uploads/2026/04/GettyImages-2153841291-1.jpg&quot; alt=&quot;How Political Advertising Will Impact the Media Landscape in 2026&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[CTV is now the ONLY channel growing in political spend ($2.4B vs. $2.34B 2024). Political dollars concentrate in 5 states. Campaigns without early PMP/PG inventory locks by June face $0.12–$0.18 CPM premiums vs. early movers. Deepfake/AI brand safety risk escalating.
+
+&lt;img src="https://basis.com/wp-content/uploads/2026/04/GettyImages-2153841291-1.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Democrats eye 2027 crackdown on AI in election ads</title>
       <link>https://www.axios.com/2026/05/20/ai-ads-democrats-congress-2026-midterms-videos</link>
       <guid isPermaLink="true">https://www.axios.com/2026/05/20/ai-ads-democrats-congress-2026-midterms-videos</guid>
-      <pubDate>Sat, 23 May 2026 00:30:39 +0000</pubDate>
+      <pubDate>Sat, 23 May 2026 00:30:39 GMT</pubDate>
       <description>AI deepfakes are flooding 2026 campaigns with zero disclosure requirements—House Democrats plan 2027 regulation. Smart campaigns disclose voluntary; vendors must build compliance tooling now to retain clients post-election.</description>
       <category>Axios</category>
+      <ns1:encoded>&lt;![CDATA[AI deepfakes are flooding 2026 campaigns with zero disclosure requirements—House Democrats plan 2027 regulation. Smart campaigns disclose voluntary; vendors must build compliance tooling now to retain clients post-election.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Stop Wasting Ad Dollars: How Social Optimization Changes the Math</title>
       <link>https://integralads.com/insider/stop-wasting-ad-dollars-how-social-optimization-changes-the-math/</link>
       <guid isPermaLink="true">https://integralads.com/insider/stop-wasting-ad-dollars-how-social-optimization-changes-the-math/</guid>
-      <pubDate>Sat, 23 May 2026 00:23:52 +0000</pubDate>
+      <pubDate>Sat, 23 May 2026 00:23:52 GMT</pubDate>
       <description>36.5% of programmatic social spend is wasted on unsuitable content impressions. Leading brands combining contextual suitability with platform filters achieved 29% higher engagement, 71% fewer suitability failures, and 18% lower CPMs. Campaigns spending $10M+ in social can recapture hundreds of thousands in waste by shifting to quality-optimized buying.</description>
       <category>IAS / Integral Ads</category>
-      <content:encoded>&lt;p&gt;36.5% of programmatic social spend is wasted on unsuitable content impressions. Leading brands combining contextual suitability with platform filters achieved 29% higher engagement, 71% fewer suitability failures, and 18% lower CPMs. Campaigns spending $10M+ in social can recapture hundreds of thousands in waste by shifting to quality-optimized buying.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://integralads.com/wp-content/uploads/2026/05/Stop-Wasting-Ad-Dollars-Blog-Tile-Image-2.png&quot; alt=&quot;Stop Wasting Ad Dollars: How Social Optimization Changes the Math&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[36.5% of programmatic social spend is wasted on unsuitable content impressions. Leading brands combining contextual suitability with platform filters achieved 29% higher engagement, 71% fewer suitability failures, and 18% lower CPMs. Campaigns spending $10M+ in social can recapture hundreds of thousands in waste by shifting to quality-optimized buying.
+
+&lt;img src="https://integralads.com/wp-content/uploads/2026/05/Stop-Wasting-Ad-Dollars-Blog-Tile-Image-2.png" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>DoubleVerify Delivers Global Media Quality Measurement for LinkedIn Audience Network</title>
       <link>https://adtechtoday.com/doubleverify-delivers-global-media-quality-measurement-for-linkedin-audience-network-elevating-transparency-for-b2b-advertisers/</link>
       <guid isPermaLink="true">https://adtechtoday.com/doubleverify-delivers-global-media-quality-measurement-for-linkedin-audience-network-elevating-transparency-for-b2b-advertisers/</guid>
-      <pubDate>Sat, 23 May 2026 00:23:43 +0000</pubDate>
+      <pubDate>Sat, 23 May 2026 00:23:43 GMT</pubDate>
       <description>DoubleVerify brings third-party media quality verification to LinkedIn Audience Network—enabling real-time measurement of invalid traffic, viewability, brand suitability, and geography. LinkedIn LAN delivers 3.9x more impressions than feed-only. Verified, quality-measured inventory is becoming table stakes for political campaigns.</description>
       <category>Ad Tech Today</category>
-      <content:encoded>&lt;p&gt;DoubleVerify brings third-party media quality verification to LinkedIn Audience Network—enabling real-time measurement of invalid traffic, viewability, brand suitability, and geography. LinkedIn LAN delivers 3.9x more impressions than feed-only. Verified, quality-measured inventory is becoming table stakes for political campaigns.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://adtechtoday.com/wp-content/uploads/2026/05/DoubleVerify-Delivers-Global-Media-Quality-Measurement-for-LinkedIn-Audience-Network-Elevating-Transparency-for-B2B-Advertisers.jpg&quot; alt=&quot;DoubleVerify Delivers Global Media Quality Measurement for LinkedIn Audience Network&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[DoubleVerify brings third-party media quality verification to LinkedIn Audience Network—enabling real-time measurement of invalid traffic, viewability, brand suitability, and geography. LinkedIn LAN delivers 3.9x more impressions than feed-only. Verified, quality-measured inventory is becoming table stakes for political campaigns.
+
+&lt;img src="https://adtechtoday.com/wp-content/uploads/2026/05/DoubleVerify-Delivers-Global-Media-Quality-Measurement-for-LinkedIn-Audience-Network-Elevating-Transparency-for-B2B-Advertisers.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Study finds AI chatbots can shape and distort voters' understanding of elections</title>
       <link>https://www.ucd.ie/newsandopinion/news/2026/may/22/studyfindsaichatbotscanshapeanddistortvotersunderstandingofelections/</link>
       <guid isPermaLink="true">https://www.ucd.ie/newsandopinion/news/2026/may/22/studyfindsaichatbotscanshapeanddistortvotersunderstandingofelections/</guid>
-      <pubDate>Sat, 23 May 2026 00:23:35 +0000</pubDate>
+      <pubDate>Sat, 23 May 2026 00:23:35 GMT</pubDate>
       <description>Research from UCD and University of Strathclyde reveals AI chatbots (ChatGPT, Claude, Gemini, Grok) provide incomplete, biased, and sometimes fabricated election information. ChatGPT omitted candidates, Gemini showed wrong results. Campaigns must understand this voter information gap affects perception and turnout.</description>
       <category>University College Dublin</category>
+      <ns1:encoded>&lt;![CDATA[Research from UCD and University of Strathclyde reveals AI chatbots (ChatGPT, Claude, Gemini, Grok) provide incomplete, biased, and sometimes fabricated election information. ChatGPT omitted candidates, Gemini showed wrong results. Campaigns must understand this voter information gap affects perception and turnout.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Broadcast Is Losing Ad Dollars, Despite Massive Reach</title>
       <link>https://streetfightmag.com/2026/05/22/why-broadcast-is-losing-ad-dollars-despite-massive-reach/</link>
       <guid isPermaLink="true">https://streetfightmag.com/2026/05/22/why-broadcast-is-losing-ad-dollars-despite-massive-reach/</guid>
-      <pubDate>Sat, 23 May 2026 00:23:26 +0000</pubDate>
+      <pubDate>Sat, 23 May 2026 00:23:26 GMT</pubDate>
       <description>The intelligence infrastructure gap is costing broadcasters $233M in political ad revenue—while programmatic platforms win by proving performance in real-time. Campaigns now demand live data, not quarterly reports. Broadcasters with real-time audience intelligence will win 2026 budgets; those without will lose to faster platforms.</description>
       <category>Street Fight</category>
-      <content:encoded>&lt;p&gt;The intelligence infrastructure gap is costing broadcasters $233M in political ad revenue—while programmatic platforms win by proving performance in real-time. Campaigns now demand live data, not quarterly reports. Broadcasters with real-time audience intelligence will win 2026 budgets; those without will lose to faster platforms.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://streetfightmag.com/wp-content/uploads/Broadcast-Media-1-e1779473283887.png&quot; alt=&quot;Broadcast Is Losing Ad Dollars, Despite Massive Reach&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[The intelligence infrastructure gap is costing broadcasters $233M in political ad revenue—while programmatic platforms win by proving performance in real-time. Campaigns now demand live data, not quarterly reports. Broadcasters with real-time audience intelligence will win 2026 budgets; those without will lose to faster platforms.
+
+&lt;img src="https://streetfightmag.com/wp-content/uploads/Broadcast-Media-1-e1779473283887.png" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Why Political Advertisers Can't Afford Unverified Reach In 2026</title>
       <link>https://www.adexchanger.com/content-studio/why-political-advertisers-cant-afford-unverified-reach-in-2026/</link>
       <guid isPermaLink="true">https://www.adexchanger.com/content-studio/why-political-advertisers-cant-afford-unverified-reach-in-2026/</guid>
-      <pubDate>Thu, 21 May 2026 22:05:52 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 22:05:52 GMT</pubDate>
       <description>Probabilistic identity doesn't scale for political campaigns operating 30-day windows with FEC disclosure requirements. Unverified reach introduces compliance risk, performance waste, and slower tactical optimization. Authenticated inventory commands premium but ensures certainty and campaign velocity.</description>
       <category>AdExchanger</category>
+      <ns1:encoded>&lt;![CDATA[Probabilistic identity doesn't scale for political campaigns operating 30-day windows with FEC disclosure requirements. Unverified reach introduces compliance risk, performance waste, and slower tactical optimization. Authenticated inventory commands premium but ensures certainty and campaign velocity.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Ampersand Unveils TrueStream Political: Authenticated CTV Inventory at Scale</title>
       <link>https://www.prnewswire.com/news-releases/ampersand-unveils-truestream-political-the-modern-premium-streaming-solution-for-deterministic-voter-reach-302658568.html</link>
       <guid isPermaLink="true">https://www.prnewswire.com/news-releases/ampersand-unveils-truestream-political-the-modern-premium-streaming-solution-for-deterministic-voter-reach-302658568.html</guid>
-      <pubDate>Thu, 21 May 2026 22:05:52 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 22:05:52 GMT</pubDate>
       <description>Ampersand launches TrueStream Political with deterministic household-level identity from Comcast, Charter, Cox (120M households). Fraud-free premium inventory addresses identity accuracy variance crisis (20-30% variance across platforms) plaguing CTV political buys.</description>
       <category>PR Newswire/Ampersand</category>
+      <ns1:encoded>&lt;![CDATA[Ampersand launches TrueStream Political with deterministic household-level identity from Comcast, Charter, Cox (120M households). Fraud-free premium inventory addresses identity accuracy variance crisis (20-30% variance across platforms) plaguing CTV political buys.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Viant and Ad Fontes Media Bring Political Bias-Based Targeting to CTV News</title>
       <link>https://www.viantinc.com/company/news/press-releases/viant-and-ad-fontes-media-bring-political-bias-based-targeting-to-ctv-news-for-the-first-time/</link>
       <guid isPermaLink="true">https://www.viantinc.com/company/news/press-releases/viant-and-ad-fontes-media-bring-political-bias-based-targeting-to-ctv-news-for-the-first-time/</guid>
-      <pubDate>Thu, 21 May 2026 22:05:52 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 22:05:52 GMT</pubDate>
       <description>First DSP enabling news reliability-based targeting in CTV. Campaigns can now target voters based on news environment consumed (mainstream, conservative, entertainment-aligned). Reach swing voters in mainstream environments or base voters in conservative environments with tailored messaging.</description>
       <category>Viant Technology</category>
+      <ns1:encoded>&lt;![CDATA[First DSP enabling news reliability-based targeting in CTV. Campaigns can now target voters based on news environment consumed (mainstream, conservative, entertainment-aligned). Reach swing voters in mainstream environments or base voters in conservative environments with tailored messaging.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Digital Remedy Expands Political Media Offering With Launch Of The Political Desk</title>
       <link>https://tvnewscheck.com/business/article/digital-remedy-expands-political-media-offering-with-launch-of-the-political-desk-ahead-of-2026-midterms/</link>
       <guid isPermaLink="true">https://tvnewscheck.com/business/article/digital-remedy-expands-political-media-offering-with-launch-of-the-political-desk-ahead-of-2026-midterms/</guid>
-      <pubDate>Thu, 21 May 2026 22:05:52 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 22:05:52 GMT</pubDate>
       <description>Digital Remedy launches The Political Desk with VoterReach district-level measurement. Campaigns get unified view across CTV/video/display/audio/DOOH plus real-time frequency detection and budget reallocation. Launches in hours, not days—critical speed advantage for 2026.</description>
       <category>TVNewsCheck</category>
+      <ns1:encoded>&lt;![CDATA[Digital Remedy launches The Political Desk with VoterReach district-level measurement. Campaigns get unified view across CTV/video/display/audio/DOOH plus real-time frequency detection and budget reallocation. Launches in hours, not days—critical speed advantage for 2026.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Local TV faces financial pinch as political ad spending increasingly moves online</title>
       <link>https://www.morningstar.com/news/marketwatch/20260521209/local-tv-faces-financial-pinch-as-political-ad-spending-increasingly-moves-online</link>
       <guid isPermaLink="true">https://www.morningstar.com/news/marketwatch/20260521209/local-tv-faces-financial-pinch-as-political-ad-spending-increasingly-moves-online</guid>
-      <pubDate>Thu, 21 May 2026 22:05:52 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 22:05:52 GMT</pubDate>
       <description>Broadcast TV political spend drops 7% while online jumps 35%; online now captures 50% of all political ad spend for first time in midterm cycle. Campaigns must shift allocation by Q3 or face premium CPM rates and shrinking inventory.</description>
       <category>Morningstar/MarketWatch</category>
+      <ns1:encoded>&lt;![CDATA[Broadcast TV political spend drops 7% while online jumps 35%; online now captures 50% of all political ad spend for first time in midterm cycle. Campaigns must shift allocation by Q3 or face premium CPM rates and shrinking inventory.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>A new generation of ads for the AI era of Search</title>
       <link>https://blog.google/products/ads-commerce/google-marketing-live-search-ads/</link>
       <guid isPermaLink="true">https://blog.google/products/ads-commerce/google-marketing-live-search-ads/</guid>
-      <pubDate>Thu, 21 May 2026 14:38:45 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 14:38:45 GMT</pubDate>
       <description>Google launched Conversational Discovery ads and Highlighted Answers powered by Gemini in Search—allowing campaigns to generate custom product explainers in real-time based on voter queries. Political media buyers gain new demand-capture inventory at scale.</description>
       <category>Google Official Blog</category>
-      <content:encoded>&lt;p&gt;Google launched Conversational Discovery ads and Highlighted Answers powered by Gemini in Search—allowing campaigns to generate custom product explainers in real-time based on voter queries. Political media buyers gain new demand-capture inventory at scale.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GML_Search_social.width-1300.png&quot; alt=&quot;A new generation of ads for the AI era of Search&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Google launched Conversational Discovery ads and Highlighted Answers powered by Gemini in Search—allowing campaigns to generate custom product explainers in real-time based on voter queries. Political media buyers gain new demand-capture inventory at scale.
+
+&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GML_Search_social.width-1300.png" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>How AIPAC channels millions through shell PACs ahead of US elections</title>
       <link>https://www.aljazeera.com/news/2026/5/20/as-aipac-becomes-toxic-it-is-trying-to-conceal-spending-in-us-elections</link>
       <guid isPermaLink="true">https://www.aljazeera.com/news/2026/5/20/as-aipac-becomes-toxic-it-is-trying-to-conceal-spending-in-us-elections</guid>
-      <pubDate>Thu, 21 May 2026 14:38:34 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 14:38:34 GMT</pubDate>
       <description>Shell PAC structures are proliferating as major groups hide spending sources—layered PAC-to-PAC funding is becoming the primary strategy to obscure donor origins. Political operatives expect increased transparency pressure and FEC enforcement scrutiny on opaque funding chains.</description>
       <category>Al Jazeera</category>
+      <ns1:encoded>&lt;![CDATA[Shell PAC structures are proliferating as major groups hide spending sources—layered PAC-to-PAC funding is becoming the primary strategy to obscure donor origins. Political operatives expect increased transparency pressure and FEC enforcement scrutiny on opaque funding chains.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Democrats eye 2027 crackdown on AI in election ads</title>
       <link>https://www.axios.com/2026/05/20/ai-ads-democrats-congress-2026-midterms-videos</link>
       <guid isPermaLink="true">https://www.axios.com/2026/05/20/ai-ads-democrats-congress-2026-midterms-videos</guid>
-      <pubDate>Thu, 21 May 2026 14:38:24 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 14:38:24 GMT</pubDate>
       <description>AI-generated political ads are proliferating without disclosure—Democrats plan mandatory AI disclaimer legislation if they retake power. Campaigns must prepare compliance frameworks and audit trails for AI-created content by 2027 or face regulatory exposure.</description>
       <category>Axios</category>
+      <ns1:encoded>&lt;![CDATA[AI-generated political ads are proliferating without disclosure—Democrats plan mandatory AI disclaimer legislation if they retake power. Campaigns must prepare compliance frameworks and audit trails for AI-created content by 2027 or face regulatory exposure.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Can you trust that post about Tom Steyer? How paid influencers are flooding into the governor's race</title>
       <link>https://calmatters.org/politics/2026/05/california-governor-race-influencers/</link>
       <guid isPermaLink="true">https://calmatters.org/politics/2026/05/california-governor-race-influencers/</guid>
-      <pubDate>Wed, 20 May 2026 22:12:52 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 22:12:52 GMT</pubDate>
       <description>Billionaire Steyer's campaign pays influencers $123K+ to post pro-campaign content; some posts lack required disclosure. Signals influencer content at scale becoming standard political tactic, but with disclosure/transparency vulnerabilities. Campaigns testing paid creator networks to build grassroots appearance.</description>
       <category>CalMatters</category>
-      <content:encoded>&lt;p&gt;Billionaire Steyer's campaign pays influencers $123K+ to post pro-campaign content; some posts lack required disclosure. Signals influencer content at scale becoming standard political tactic, but with disclosure/transparency vulnerabilities. Campaigns testing paid creator networks to build grassroots appearance.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://calmatters.org/wp-content/uploads/2026/05/022126_DemConvention-JK_CM_58.jpg&quot; alt=&quot;Can you trust that post about Tom Steyer? How paid influencers are flooding into the governor's race&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Billionaire Steyer's campaign pays influencers $123K+ to post pro-campaign content; some posts lack required disclosure. Signals influencer content at scale becoming standard political tactic, but with disclosure/transparency vulnerabilities. Campaigns testing paid creator networks to build grassroots appearance.
+
+&lt;img src="https://calmatters.org/wp-content/uploads/2026/05/022126_DemConvention-JK_CM_58.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>U.S. Digital Video Ad Spend Projected to Surpass $80B in 2026, Growing 11% YoY</title>
       <link>https://www.iab.com/insights/video-ad-spend-report-2026/</link>
       <guid isPermaLink="true">https://www.iab.com/insights/video-ad-spend-report-2026/</guid>
-      <pubDate>Wed, 20 May 2026 22:12:52 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 22:12:52 GMT</pubDate>
       <description>Digital video ad spending (CTV, social video, YouTube) hits $81.9B in 2026, growing 11% YoY—nearly 20% faster than overall ad market. Political campaigns must prioritize video channels where growth outpaces traditional media; CTV and streaming now mandatory for efficient reach.</description>
       <category>IAB</category>
-      <content:encoded>&lt;p&gt;Digital video ad spending (CTV, social video, YouTube) hits $81.9B in 2026, growing 11% YoY—nearly 20% faster than overall ad market. Political campaigns must prioritize video channels where growth outpaces traditional media; CTV and streaming now mandatory for efficient reach.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://www.iab.com/wp-content/uploads/2026/05/2026-digital-video-ad-spend-strategy-report-part-one.png&quot; alt=&quot;U.S. Digital Video Ad Spend Projected to Surpass $80B in 2026, Growing 11% YoY&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Digital video ad spending (CTV, social video, YouTube) hits $81.9B in 2026, growing 11% YoY—nearly 20% faster than overall ad market. Political campaigns must prioritize video channels where growth outpaces traditional media; CTV and streaming now mandatory for efficient reach.
+
+&lt;img src="https://www.iab.com/wp-content/uploads/2026/05/2026-digital-video-ad-spend-strategy-report-part-one.png" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Midterm Political Ad Spend Projected To Hit $13.8B, Up 9%</title>
       <link>https://www.mediapost.com/publications/article/415221/</link>
       <guid isPermaLink="true">https://www.mediapost.com/publications/article/415221/</guid>
-      <pubDate>Wed, 20 May 2026 22:12:52 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 22:12:52 GMT</pubDate>
       <description>2026 political ad spend reaches $13.8B (+9% vs 2022), but digital now commands 50% of budget (up from 46%), while local TV falls to 36% (from 40%). This marks structural shift away from traditional broadcast toward digital, social, and programmatic channels.</description>
       <category>MediaPost</category>
-      <content:encoded>&lt;p&gt;2026 political ad spend reaches $13.8B (+9% vs 2022), but digital now commands 50% of budget (up from 46%), while local TV falls to 36% (from 40%). This marks structural shift away from traditional broadcast toward digital, social, and programmatic channels.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2026/05/20/us-political-advertising-revs-600_JLbkS4v.jpg&quot; alt=&quot;Midterm Political Ad Spend Projected To Hit $13.8B, Up 9%&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[2026 political ad spend reaches $13.8B (+9% vs 2022), but digital now commands 50% of budget (up from 46%), while local TV falls to 36% (from 40%). This marks structural shift away from traditional broadcast toward digital, social, and programmatic channels.
+
+&lt;img src="https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2026/05/20/us-political-advertising-revs-600_JLbkS4v.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Trump got his revenge on Thomas Massie — but at a huge price</title>
       <link>https://www.ms.now/opinion/trump-thomas-massie-kentucky-gop-primary</link>
       <guid isPermaLink="true">https://www.ms.now/opinion/trump-thomas-massie-kentucky-gop-primary</guid>
-      <pubDate>Wed, 20 May 2026 22:12:52 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 22:12:52 GMT</pubDate>
       <description>Kentucky's 4th House primary becomes most expensive in U.S. history at $32.6M, with $14M from outside groups. Signals unprecedented primary-cycle spending arms races; campaigns must prepare for massive GOP internal battles funded by Super PACs and Trump-aligned organizations.</description>
       <category>MS NOW</category>
+      <ns1:encoded>&lt;![CDATA[Kentucky's 4th House primary becomes most expensive in U.S. history at $32.6M, with $14M from outside groups. Signals unprecedented primary-cycle spending arms races; campaigns must prepare for massive GOP internal battles funded by Super PACs and Trump-aligned organizations.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Democrats eye 2027 crackdown on AI in election ads</title>
       <link>https://www.axios.com/2026/05/20/ai-ads-democrats-congress-2026-midterms-videos</link>
       <guid isPermaLink="true">https://www.axios.com/2026/05/20/ai-ads-democrats-congress-2026-midterms-videos</guid>
-      <pubDate>Wed, 20 May 2026 14:37:57 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 14:37:57 GMT</pubDate>
       <description>House Democrats planning 2027 legislation to regulate AI-generated political ads. AI usage exploded in 2026 (deepfakes, synthetic videos). Rep. Joe Morelle pushing disclosure requirements. Strategic implication: campaigns using undisclosed AI ads without disclosure risk legal exposure post-election. Early transparency now = competitive advantage and regulatory shield.</description>
       <category>Axios</category>
+      <ns1:encoded>&lt;![CDATA[House Democrats planning 2027 legislation to regulate AI-generated political ads. AI usage exploded in 2026 (deepfakes, synthetic videos). Rep. Joe Morelle pushing disclosure requirements. Strategic implication: campaigns using undisclosed AI ads without disclosure risk legal exposure post-election. Early transparency now = competitive advantage and regulatory shield.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Viant and Ad Fontes Media Bring Political Bias-Based Targeting to CTV News</title>
       <link>https://www.businesswire.com/news/home/20260520884521/en/Viant-and-Ad-Fontes-Media-Bring-Political-Bias-Based-Targeting-to-CTV-News-for-the-First-Time</link>
       <guid isPermaLink="true">https://www.businesswire.com/news/home/20260520884521/en/Viant-and-Ad-Fontes-Media-Bring-Political-Bias-Based-Targeting-to-CTV-News-for-the-First-Time</guid>
-      <pubDate>Wed, 20 May 2026 14:37:57 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 14:37:57 GMT</pubDate>
       <description>Viant (DSP) and Ad Fontes Media enable first-to-market news reliability-based targeting on CTV. Political campaigns can now reach voters by news source quality/bias while achieving 60% lower CPA and 50%+ higher conversions. Ads in news environments drive 77% higher brand recall—the efficiency edge every 2026 campaign needs.</description>
       <category>BusinessWire / Viant</category>
+      <ns1:encoded>&lt;![CDATA[Viant (DSP) and Ad Fontes Media enable first-to-market news reliability-based targeting on CTV. Political campaigns can now reach voters by news source quality/bias while achieving 60% lower CPA and 50%+ higher conversions. Ads in news environments drive 77% higher brand recall—the efficiency edge every 2026 campaign needs.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Reddit Expands First-Party Measurement with Dual Attribution</title>
       <link>https://www.mediapost.com/publications/article/415202/reddit-expands-first-party-measurement.html</link>
       <guid isPermaLink="true">https://www.mediapost.com/publications/article/415202/reddit-expands-first-party-measurement.html</guid>
-      <pubDate>Wed, 20 May 2026 14:37:57 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 14:37:57 GMT</pubDate>
       <description>Reddit launches Dual Attribution into beta—giving political campaigns independent performance measurement on the platform without relying on third-party MMPs. Redditors have 65% higher lifetime value than other social platforms, and political advertisers on Reddit grew installs 129% YoY. Now campaigns can optimize spend and measure impact in real-time.</description>
       <category>MediaPost</category>
-      <content:encoded>&lt;p&gt;Reddit launches Dual Attribution into beta—giving political campaigns independent performance measurement on the platform without relying on third-party MMPs. Redditors have 65% higher lifetime value than other social platforms, and political advertisers on Reddit grew installs 129% YoY. Now campaigns can optimize spend and measure impact in real-time.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2026/02/10/redditsite_E4H2EYG.jpg&quot; alt=&quot;Reddit Expands First-Party Measurement with Dual Attribution&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Reddit launches Dual Attribution into beta—giving political campaigns independent performance measurement on the platform without relying on third-party MMPs. Redditors have 65% higher lifetime value than other social platforms, and political advertisers on Reddit grew installs 129% YoY. Now campaigns can optimize spend and measure impact in real-time.
+
+&lt;img src="https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2026/02/10/redditsite_E4H2EYG.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Publicis Acquires LiveRamp for $2.2B: Data Neutrality Ends, Political Campaigns Face Vendor Consolidation Risk</title>
       <link>https://www.axios.com/2026/05/19/publicis-liveramp-ad-tech-deal</link>
       <guid isPermaLink="true">https://www.axios.com/2026/05/19/publicis-liveramp-ad-tech-deal</guid>
-      <pubDate>Tue, 19 May 2026 22:10:44 +0000</pubDate>
+      <pubDate>Tue, 19 May 2026 22:10:44 GMT</pubDate>
       <description>$2.2B Publicis/LiveRamp acquisition consolidates 'neutral' identity infrastructure under holding company. Campaigns' data now flows through vendor that also sells to competing advertisers. 12–18 month window to diversify away from single-vendor data dependency before margin pressure and further consolidation.</description>
       <category>Axios</category>
+      <ns1:encoded>&lt;![CDATA[$2.2B Publicis/LiveRamp acquisition consolidates 'neutral' identity infrastructure under holding company. Campaigns' data now flows through vendor that also sells to competing advertisers. 12–18 month window to diversify away from single-vendor data dependency before margin pressure and further consolidation.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Midterm Elections Looming: Political Influencer Spending Explodes With Zero FEC/FTC Disclosure</title>
       <link>https://adexchanger.com/daily-news-roundup/writing-content-for-the-robots-amazons-alarming-affiliate-adjustments/</link>
       <guid isPermaLink="true">https://adexchanger.com/daily-news-roundup/writing-content-for-the-robots-amazons-alarming-affiliate-adjustments/</guid>
-      <pubDate>Tue, 19 May 2026 22:10:44 +0000</pubDate>
+      <pubDate>Tue, 19 May 2026 22:10:44 GMT</pubDate>
       <description>Gen Z campaigns discovering creator content as high-ROI channel with NO disclosure requirements. Campaigns paying creators $100K+ for political endorsements with zero transparency—regulatory window closing by Q3 2026. Build creator rosters NOW before Q3 compliance frameworks tighten.</description>
       <category>AdExchanger</category>
-      <content:encoded>&lt;p&gt;Gen Z campaigns discovering creator content as high-ROI channel with NO disclosure requirements. Campaigns paying creators $100K+ for political endorsements with zero transparency—regulatory window closing by Q3 2026. Build creator rosters NOW before Q3 compliance frameworks tighten.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://adexchanger.com/wp-content/uploads/2025/05/scraping-headlines-AI-artificial-intelligence-robots-comic-featured-e1770768861775.jpg&quot; alt=&quot;Midterm Elections Looming: Political Influencer Spending Explodes With Zero FEC/FTC Disclosure&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Gen Z campaigns discovering creator content as high-ROI channel with NO disclosure requirements. Campaigns paying creators $100K+ for political endorsements with zero transparency—regulatory window closing by Q3 2026. Build creator rosters NOW before Q3 compliance frameworks tighten.
+
+&lt;img src="https://adexchanger.com/wp-content/uploads/2025/05/scraping-headlines-AI-artificial-intelligence-robots-comic-featured-e1770768861775.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Texting Platform Hustle Has New Owners: Its Employees</title>
       <link>https://campaignsandelections.com/industry-news/employees-buy-out-political-texting-platform-hustle/</link>
       <guid isPermaLink="true">https://campaignsandelections.com/industry-news/employees-buy-out-political-texting-platform-hustle/</guid>
-      <pubDate>Tue, 19 May 2026 22:10:44 +0000</pubDate>
+      <pubDate>Tue, 19 May 2026 22:10:44 GMT</pubDate>
       <description>Hustle shifts to employee ownership with new 'Win The Future' pay-as-you-go pricing for 2026 campaigns. Mission-aligned ownership creates incentive alignment and lower cost access to enterprise P2P + broadcast + video texting for down-ballot campaigns.</description>
       <category>Campaigns &amp; Elections</category>
+      <ns1:encoded>&lt;![CDATA[Hustle shifts to employee ownership with new 'Win The Future' pay-as-you-go pricing for 2026 campaigns. Mission-aligned ownership creates incentive alignment and lower cost access to enterprise P2P + broadcast + video texting for down-ballot campaigns.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Voter Intelligence at the Speed of Media: How Aristotle and Always On Data Are Powering the 2026 Cycle</title>
       <link>https://markets.businessinsider.com/news/stocks/voter-intelligence-at-the-speed-of-media-how-aristotle-and-always-on-data-are-powering-the-2026-cycle-1036172616</link>
       <guid isPermaLink="true">https://markets.businessinsider.com/news/stocks/voter-intelligence-at-the-speed-of-media-how-aristotle-and-always-on-data-are-powering-the-2026-cycle-1036172616</guid>
-      <pubDate>Tue, 19 May 2026 14:27:30 +0000</pubDate>
+      <pubDate>Tue, 19 May 2026 14:27:30 GMT</pubDate>
       <description>Voter intelligence now activates across all major DSPs in hours, not weeks—campaigns move from strategy to live targeting without custom integrations. Unified activation-ready data is now table stakes for 2026 media planning.</description>
       <category>Business Insider</category>
+      <ns1:encoded>&lt;![CDATA[Voter intelligence now activates across all major DSPs in hours, not weeks—campaigns move from strategy to live targeting without custom integrations. Unified activation-ready data is now table stakes for 2026 media planning.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>DSPolitical and FreeWheel Unlock Scalable, High-Performance CTV Ahead of 2026 Midterm Elections</title>
       <link>https://www.businesswire.com/news/home/20260519970067/en/DSPolitical-and-FreeWheel-Unlock-Scalable-High-Performance-CTV-Ahead-of-2026-Midterm-Elections</link>
       <guid isPermaLink="true">https://www.businesswire.com/news/home/20260519970067/en/DSPolitical-and-FreeWheel-Unlock-Scalable-High-Performance-CTV-Ahead-of-2026-Midterm-Elections</guid>
-      <pubDate>Tue, 19 May 2026 14:27:30 +0000</pubDate>
+      <pubDate>Tue, 19 May 2026 14:27:30 GMT</pubDate>
       <description>Deterministic identity unlocks 18x higher CTV match rates for political campaigns—moving from weeks to hours for voter data activation. This is the competitive advantage separating winners from laggards in 2026.</description>
       <category>Business Wire</category>
-      <content:encoded>&lt;p&gt;Deterministic identity unlocks 18x higher CTV match rates for political campaigns—moving from weeks to hours for voter data activation. This is the competitive advantage separating winners from laggards in 2026.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://mms.businesswire.com/media/20260519970067/en/2410383/4/FreeWheel_Logo_Color.jpg&quot; alt=&quot;DSPolitical and FreeWheel Unlock Scalable, High-Performance CTV Ahead of 2026 Midterm Elections&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Deterministic identity unlocks 18x higher CTV match rates for political campaigns—moving from weeks to hours for voter data activation. This is the competitive advantage separating winners from laggards in 2026.
+
+&lt;img src="https://mms.businesswire.com/media/20260519970067/en/2410383/4/FreeWheel_Logo_Color.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Influencer boost budgets are throwing gas on social video spending fire</title>
       <link>https://digiday.com/media-buying/influencer-boost-budgets-are-throwing-gas-on-social-video-spending-fire/</link>
       <guid isPermaLink="true">https://digiday.com/media-buying/influencer-boost-budgets-are-throwing-gas-on-social-video-spending-fire/</guid>
-      <pubDate>Mon, 18 May 2026 22:07:24 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 22:07:24 GMT</pubDate>
       <description>Influencer campaign budgets now split 60-40 toward paid amplification (up from afterthought status). Social video spend growing 13% YoY with amplification—but campaigns running legacy organic-only models are leaving 30-50% reach on table. Restructure influencer allocations by June to optimize unit economics by November 2026.</description>
       <category>Digiday</category>
-      <content:encoded>&lt;p&gt;Influencer campaign budgets now split 60-40 toward paid amplification (up from afterthought status). Social video spend growing 13% YoY with amplification—but campaigns running legacy organic-only models are leaving 30-50% reach on table. Restructure influencer allocations by June to optimize unit economics by November 2026.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://digiday.com/wp-content/uploads/sites/3/2023/11/creators-influencers-digiday.png&quot; alt=&quot;Influencer boost budgets are throwing gas on social video spending fire&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Influencer campaign budgets now split 60-40 toward paid amplification (up from afterthought status). Social video spend growing 13% YoY with amplification—but campaigns running legacy organic-only models are leaving 30-50% reach on table. Restructure influencer allocations by June to optimize unit economics by November 2026.
+
+&lt;img src="https://digiday.com/wp-content/uploads/sites/3/2023/11/creators-influencers-digiday.png" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>YouTube Rolls Out Likeness Detection To All Creators Over 18</title>
       <link>https://www.mediapost.com/publications/article/415170/youtube-rolls-out-likeness-detection-to-all-creato.html</link>
       <guid isPermaLink="true">https://www.mediapost.com/publications/article/415170/youtube-rolls-out-likeness-detection-to-all-creato.html</guid>
-      <pubDate>Mon, 18 May 2026 22:07:24 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 22:07:24 GMT</pubDate>
       <description>YouTube's likeness detection now available to all creators globally—enables removal of AI-generated content using someone's face with zero appeal process. Campaigns without AI-content vetting built into production workflows by Q2 will face mid-cycle removal risk and approval delays in Q4. This is a structural shift in video enforcement.</description>
       <category>MediaPost</category>
-      <content:encoded>&lt;p&gt;YouTube's likeness detection now available to all creators globally—enables removal of AI-generated content using someone's face with zero appeal process. Campaigns without AI-content vetting built into production workflows by Q2 will face mid-cycle removal risk and approval delays in Q4. This is a structural shift in video enforcement.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://s3.amazonaws.com/static.mediapost.com/publications/images/mp-logo-fb.jpg&quot; alt=&quot;YouTube Rolls Out Likeness Detection To All Creators Over 18&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[YouTube's likeness detection now available to all creators globally—enables removal of AI-generated content using someone's face with zero appeal process. Campaigns without AI-content vetting built into production workflows by Q2 will face mid-cycle removal risk and approval delays in Q4. This is a structural shift in video enforcement.
+
+&lt;img src="https://s3.amazonaws.com/static.mediapost.com/publications/images/mp-logo-fb.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>ActBlue CEO Agrees to Appear Before Congressional Investigators</title>
       <link>https://campaignsandelections.com/industry-news/actblue-ceo-agrees-to-appear-before-house-committee/</link>
       <guid isPermaLink="true">https://campaignsandelections.com/industry-news/actblue-ceo-agrees-to-appear-before-house-committee/</guid>
-      <pubDate>Mon, 18 May 2026 22:07:23 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 22:07:23 GMT</pubDate>
       <description>ActBlue CEO testifies before House on June 10 over foreign donor vetting—potential platform restrictions could slow Democratic mid-cycle fundraising 15-20%, forcing campaigns to deploy contingency platforms. Q3/Q4 funding velocity is now a political variable.</description>
       <category>Campaigns &amp; Elections</category>
-      <content:encoded>&lt;p&gt;ActBlue CEO testifies before House on June 10 over foreign donor vetting—potential platform restrictions could slow Democratic mid-cycle fundraising 15-20%, forcing campaigns to deploy contingency platforms. Q3/Q4 funding velocity is now a political variable.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://campaignsandelections.com/wp-content/uploads/2021/07/40fcf4428d6cdd713e23b4a77e12cf4c0332c8c22449c810fc1b789ddf5eoctet-stream.octet-stream&quot; alt=&quot;ActBlue CEO Agrees to Appear Before Congressional Investigators&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[ActBlue CEO testifies before House on June 10 over foreign donor vetting—potential platform restrictions could slow Democratic mid-cycle fundraising 15-20%, forcing campaigns to deploy contingency platforms. Q3/Q4 funding velocity is now a political variable.
+
+&lt;img src="https://campaignsandelections.com/wp-content/uploads/2021/07/40fcf4428d6cdd713e23b4a77e12cf4c0332c8c22449c810fc1b789ddf5eoctet-stream.octet-stream" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Why Ohio Doesn't Have Any Artificial Intelligence Regulations</title>
       <link>https://ohiocapitaljournal.com/2026/05/18/why-ohio-doesnt-have-any-artificial-intelligence-regulations/</link>
       <guid isPermaLink="true">https://ohiocapitaljournal.com/2026/05/18/why-ohio-doesnt-have-any-artificial-intelligence-regulations/</guid>
-      <pubDate>Mon, 18 May 2026 14:30:16 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 14:30:16 GMT</pubDate>
       <description>AI-generated political ads (deepfakes, doctored images) are running without disclaimers in Ohio primaries. No state AI ad regulations exist despite bipartisan bills introduced. Compliance risk is asymmetric: campaigns using AI face unpredictable enforcement, while opponents' AI content skirts legality. Regulatory landscape will fragment by Q3—campaigns must audit creative production now.</description>
       <category>Ohio Capital Journal</category>
-      <content:encoded>&lt;p&gt;AI-generated political ads (deepfakes, doctored images) are running without disclaimers in Ohio primaries. No state AI ad regulations exist despite bipartisan bills introduced. Compliance risk is asymmetric: campaigns using AI face unpredictable enforcement, while opponents' AI content skirts legality. Regulatory landscape will fragment by Q3—campaigns must audit creative production now.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ohiocapitaljournal.com/wp-content/uploads/2025/07/gettyimages-1492420635-scaled-1-1536x1024.jpg&quot; alt=&quot;Why Ohio Doesn't Have Any Artificial Intelligence Regulations&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[AI-generated political ads (deepfakes, doctored images) are running without disclaimers in Ohio primaries. No state AI ad regulations exist despite bipartisan bills introduced. Compliance risk is asymmetric: campaigns using AI face unpredictable enforcement, while opponents' AI content skirts legality. Regulatory landscape will fragment by Q3—campaigns must audit creative production now.
+
+&lt;img src="https://ohiocapitaljournal.com/wp-content/uploads/2025/07/gettyimages-1492420635-scaled-1-1536x1024.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Who's Spending in Your Congressional Election? We Tracked the Front Groups Fueling the 2026 Midterms</title>
       <link>https://theintercept.com/2026/05/18/super-pac-election-spending-midterms-aipac-ai-crypto/</link>
       <guid isPermaLink="true">https://theintercept.com/2026/05/18/super-pac-election-spending-midterms-aipac-ai-crypto/</guid>
-      <pubDate>Mon, 18 May 2026 14:30:16 +0000</pubDate>
-      <description>Crypto (Fairshake, $M+ spend), AI (Leading the Future, Anthropic), and AIPAC are deploying &quot;pop-up&quot; PACs and party-affiliate structures to hide funding sources. Campaigns must audit their opposition intelligence and understand what dark money is actually targeting their districts—FEC disclosure deadlines mean voters won't know sources until months after the election.</description>
+      <pubDate>Mon, 18 May 2026 14:30:16 GMT</pubDate>
+      <description>Crypto (Fairshake, $M+ spend), AI (Leading the Future, Anthropic), and AIPAC are deploying "pop-up" PACs and party-affiliate structures to hide funding sources. Campaigns must audit their opposition intelligence and understand what dark money is actually targeting their districts—FEC disclosure deadlines mean voters won't know sources until months after the election.</description>
       <category>The Intercept</category>
-      <content:encoded>&lt;p&gt;Crypto (Fairshake, $M+ spend), AI (Leading the Future, Anthropic), and AIPAC are deploying &quot;pop-up&quot; PACs and party-affiliate structures to hide funding sources. Campaigns must audit their opposition intelligence and understand what dark money is actually targeting their districts—FEC disclosure deadlines mean voters won't know sources until months after the election.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://theintercept.com/wp-content/uploads/2026/05/PAC-update-lede2.jpg&quot; alt=&quot;Who's Spending in Your Congressional Election? We Tracked the Front Groups Fueling the 2026 Midterms&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Crypto (Fairshake, $M+ spend), AI (Leading the Future, Anthropic), and AIPAC are deploying "pop-up" PACs and party-affiliate structures to hide funding sources. Campaigns must audit their opposition intelligence and understand what dark money is actually targeting their districts—FEC disclosure deadlines mean voters won't know sources until months after the election.
+
+&lt;img src="https://theintercept.com/wp-content/uploads/2026/05/PAC-update-lede2.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Basis and DAX United States Partner to Give Political Advertisers Exclusive Access to Premium Audio Inventory</title>
       <link>https://www.globenewswire.com/news-release/2026/05/18/3296651/0/en/Basis-and-DAX-United-States-Partner-to-Give-Political-Advertisers-Exclusive-Access-to-Premium-Audio-Inventory.html</link>
       <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/05/18/3296651/0/en/Basis-and-DAX-United-States-Partner-to-Give-Political-Advertisers-Exclusive-Access-to-Premium-Audio-Inventory.html</guid>
-      <pubDate>Mon, 18 May 2026 14:30:15 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 14:30:15 GMT</pubDate>
       <description>Audio now captures 80% of daily ad-supported listening with 100M+ accessible listeners through DAX + Basis integration. Political campaigns can programmatically buy podcasts and streaming radio with L2/Experian voter targeting—closing a major inventory gap. Campaigns must scale audio by Q2 to avoid cost premiums in primary stretch.</description>
       <category>GlobeNewswire</category>
-      <content:encoded>&lt;p&gt;Audio now captures 80% of daily ad-supported listening with 100M+ accessible listeners through DAX + Basis integration. Political campaigns can programmatically buy podcasts and streaming radio with L2/Experian voter targeting—closing a major inventory gap. Campaigns must scale audio by Q2 to avoid cost premiums in primary stretch.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ml.globenewswire.com/media/MzMzN2RlODAtMDk5MS00ZjU4LThiZGEtMWFmMDcxMjE5NzdiLTEwODE4MzctMjAyNi0wNS0xOC1lbg==/tiny/Basis.png&quot; alt=&quot;Basis and DAX United States Partner to Give Political Advertisers Exclusive Access to Premium Audio Inventory&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Audio now captures 80% of daily ad-supported listening with 100M+ accessible listeners through DAX + Basis integration. Political campaigns can programmatically buy podcasts and streaming radio with L2/Experian voter targeting—closing a major inventory gap. Campaigns must scale audio by Q2 to avoid cost premiums in primary stretch.
+
+&lt;img src="https://ml.globenewswire.com/media/MzMzN2RlODAtMDk5MS00ZjU4LThiZGEtMWFmMDcxMjE5NzdiLTEwODE4MzctMjAyNi0wNS0xOC1lbg==/tiny/Basis.png" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Sell-Side Curation Just Unlocked Value-Aligned Swing Voter Targeting at Scale</title>
       <link>https://www.adexchanger.com/programmatic/this-election-season-buyers-can-curate-deals-based-on-voter-values/</link>
       <guid isPermaLink="true">https://www.adexchanger.com/programmatic/this-election-season-buyers-can-curate-deals-based-on-voter-values/</guid>
-      <pubDate>Sun, 17 May 2026 22:06:22 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 22:06:22 GMT</pubDate>
       <description>OpenX + Givsly launch values-based voter targeting; campaigns reach voters via nonprofit/cause affiliation (not party); curated deal structures reduce 20-30% identity mismatch waste and expand swing voter pools across all DSPs</description>
       <category>AdExchanger</category>
-      <content:encoded>&lt;p&gt;OpenX + Givsly launch values-based voter targeting; campaigns reach voters via nonprofit/cause affiliation (not party); curated deal structures reduce 20-30% identity mismatch waste and expand swing voter pools across all DSPs&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://www.adexchanger.com/wp-content/uploads/2026/02/vote-survey-values-1016x1024.jpg&quot; alt=&quot;Sell-Side Curation Just Unlocked Value-Aligned Swing Voter Targeting at Scale&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[OpenX + Givsly launch values-based voter targeting; campaigns reach voters via nonprofit/cause affiliation (not party); curated deal structures reduce 20-30% identity mismatch waste and expand swing voter pools across all DSPs
+
+&lt;img src="https://www.adexchanger.com/wp-content/uploads/2026/02/vote-survey-values-1016x1024.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>CTV Is Now the Mass-Reach Playbook—Broadcast Becomes the Supplementary Channel</title>
       <link>https://www.thecurrent.com/political-streaming-ctv-political-tipping-point</link>
       <guid isPermaLink="true">https://www.thecurrent.com/political-streaming-ctv-political-tipping-point</guid>
-      <pubDate>Sun, 17 May 2026 22:06:22 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 22:06:22 GMT</pubDate>
       <description>CTV projected at $2.5B (only growing channel) in 2026 political spend; 44% of swing voters stream-only; cord-cutting now 47.5% of TV viewing; campaigns that fund CTV first will measurably outperform broadcast-anchored campaigns by Q2 2026</description>
       <category>The Current</category>
-      <content:encoded>&lt;p&gt;CTV projected at $2.5B (only growing channel) in 2026 political spend; 44% of swing voters stream-only; cord-cutting now 47.5% of TV viewing; campaigns that fund CTV first will measurably outperform broadcast-anchored campaigns by Q2 2026&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://www.thecurrent.com/_next/image?url=https%3A%2F%2Fwww.thetradedesk.com%2Fassets%2Fglobal%2FTheCurrent_Newsletter_Edition272_NetflixUpfrontsPresentation_1920x1080px_FeaturedImage_v1_2026-05-14-134138_ctjl.jpg&amp;w=640&amp;q=75&quot; alt=&quot;CTV Is Now the Mass-Reach Playbook—Broadcast Becomes the Supplementary Channel&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[CTV projected at $2.5B (only growing channel) in 2026 political spend; 44% of swing voters stream-only; cord-cutting now 47.5% of TV viewing; campaigns that fund CTV first will measurably outperform broadcast-anchored campaigns by Q2 2026
+
+&lt;img src="https://www.thecurrent.com/_next/image?url=https%3A%2F%2Fwww.thetradedesk.com%2Fassets%2Fglobal%2FTheCurrent_Newsletter_Edition272_NetflixUpfrontsPresentation_1920x1080px_FeaturedImage_v1_2026-05-14-134138_ctjl.jpg&amp;w=640&amp;q=75" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>$10.8 Billion Political Ad Spend Is Arriving—And CTV CPM Premiums Start Now</title>
       <link>https://basis.com/blog/how-political-advertising-will-impact-the-media-landscape-in-2026</link>
       <guid isPermaLink="true">https://basis.com/blog/how-political-advertising-will-impact-the-media-landscape-in-2026</guid>
-      <pubDate>Sun, 17 May 2026 22:06:22 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 22:06:22 GMT</pubDate>
       <description>$10.8B political ad spend for 2026 midterms (+20% vs 2022); 50% runs in final 30 days; CTV only growing channel at $2.4B; 5 battleground states (CA, MI, GA, NC, TX) drive inventory scarcity; campaigns must lock in PMP/PG deals by Labor Day to avoid peak pricing</description>
       <category>Basis</category>
-      <content:encoded>&lt;p&gt;$10.8B political ad spend for 2026 midterms (+20% vs 2022); 50% runs in final 30 days; CTV only growing channel at $2.4B; 5 battleground states (CA, MI, GA, NC, TX) drive inventory scarcity; campaigns must lock in PMP/PG deals by Labor Day to avoid peak pricing&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://basis.com/wp-content/uploads/2023/08/logo-fb-prep.png&quot; alt=&quot;$10.8 Billion Political Ad Spend Is Arriving—And CTV CPM Premiums Start Now&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[$10.8B political ad spend for 2026 midterms (+20% vs 2022); 50% runs in final 30 days; CTV only growing channel at $2.4B; 5 battleground states (CA, MI, GA, NC, TX) drive inventory scarcity; campaigns must lock in PMP/PG deals by Labor Day to avoid peak pricing
+
+&lt;img src="https://basis.com/wp-content/uploads/2023/08/logo-fb-prep.png" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>30-State AI Political Ad Compliance Patchwork Is Now Binding Framework for 2026</title>
       <link>https://www.auditsocials.com/blog/us-state-ai-political-ad-disclosure-tracker-2026</link>
       <guid isPermaLink="true">https://www.auditsocials.com/blog/us-state-ai-political-ad-disclosure-tracker-2026</guid>
-      <pubDate>Sun, 17 May 2026 22:06:22 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 22:06:22 GMT</pubDate>
       <description>30 US states have enacted AI political ad disclosure laws covering 46% of US voters; 5 distinct regulatory models require per-state creative variations and disclosure templates; federal preemption unlikely but possible through 2027</description>
       <category>AuditSocials</category>
-      <content:encoded>&lt;p&gt;30 US states have enacted AI political ad disclosure laws covering 46% of US voters; 5 distinct regulatory models require per-state creative variations and disclosure templates; federal preemption unlikely but possible through 2027&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://www.auditsocials.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1706949536405-3dbfce07cd7c%3Fq%3D80%26w%3D1200%26auto%3Dformat%26fit%3Dcrop&amp;w=3840&amp;q=75&quot; alt=&quot;30-State AI Political Ad Compliance Patchwork Is Now Binding Framework for 2026&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[30 US states have enacted AI political ad disclosure laws covering 46% of US voters; 5 distinct regulatory models require per-state creative variations and disclosure templates; federal preemption unlikely but possible through 2027
+
+&lt;img src="https://www.auditsocials.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1706949536405-3dbfce07cd7c%3Fq%3D80%26w%3D1200%26auto%3Dformat%26fit%3Dcrop&amp;w=3840&amp;q=75" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Spotify Debuts Generative AI Ads, Programmatic Ad Buying</title>
       <link>https://freedom251.com/spotify-debuts-gen-ai-ads-programmatic-ad-buying/</link>
       <guid isPermaLink="true">https://freedom251.com/spotify-debuts-gen-ai-ads-programmatic-ad-buying/</guid>
-      <pubDate>Sun, 17 May 2026 14:09:36 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 14:09:36 GMT</pubDate>
       <description>Spotify launching AI ad creation tools and expanded programmatic buying for audio, podcasts, and video. New scalable audio channel for 2026 campaigns with AI-generated creative at speed; fast iteration and programmatic reach enable competitive advantage in cord-cutting households.</description>
       <category>Freedom251</category>
+      <ns1:encoded>&lt;![CDATA[Spotify launching AI ad creation tools and expanded programmatic buying for audio, podcasts, and video. New scalable audio channel for 2026 campaigns with AI-generated creative at speed; fast iteration and programmatic reach enable competitive advantage in cord-cutting households.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Oklahoma Governor Considers Special Session to Ban AI in Political Ads</title>
       <link>https://kfor.com/news/local/stitt-considering-special-session-to-ban-ai-in-political-ads-following-news-4-investigation/</link>
       <guid isPermaLink="true">https://kfor.com/news/local/stitt-considering-special-session-to-ban-ai-in-political-ads-following-news-4-investigation/</guid>
-      <pubDate>Sun, 17 May 2026 14:09:36 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 14:09:36 GMT</pubDate>
       <description>Gov. Stitt considering special legislative session to ban AI in political advertising after deepfake attacks. First major state-level regulatory threat; campaigns must prepare state-by-state compliance strategies as cascade of AI ad bans likely by Q3 2026.</description>
       <category>KFOR News</category>
+      <ns1:encoded>&lt;![CDATA[Gov. Stitt considering special legislative session to ban AI in political advertising after deepfake attacks. First major state-level regulatory threat; campaigns must prepare state-by-state compliance strategies as cascade of AI ad bans likely by Q3 2026.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>YouTube Expands AI Deepfake Detection Tool to All Creators over 18</title>
       <link>https://www.techedt.com/youtube-expands-ai-deepfake-detection-tool-to-all-creators-over-18</link>
       <guid isPermaLink="true">https://www.techedt.com/youtube-expands-ai-deepfake-detection-tool-to-all-creators-over-18</guid>
-      <pubDate>Sun, 17 May 2026 14:09:36 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 14:09:36 GMT</pubDate>
       <description>YouTube rolling out likeness detection tool to all 18+ users, enabling anyone to detect and remove deepfakes. Platform enforcement on synthetic political content is accelerating; campaigns must move to disclosed synthetic media to survive detection and removal.</description>
       <category>Tech Edition</category>
+      <ns1:encoded>&lt;![CDATA[YouTube rolling out likeness detection tool to all 18+ users, enabling anyone to detect and remove deepfakes. Platform enforcement on synthetic political content is accelerating; campaigns must move to disclosed synthetic media to survive detection and removal.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Political Money Is Flowing to Influencers. But From Whom?</title>
       <link>https://www.nytimes.com/2026/05/16/business/media/influencers-political-financing-disclosure.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/16/business/media/influencers-political-financing-disclosure.html</guid>
-      <pubDate>Sun, 17 May 2026 14:09:36 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 14:09:36 GMT</pubDate>
       <description>Tom Steyer and other campaigns are paying influencers without proper FTC disclosures; California FPPC investigating. Campaigns must establish compliance protocols now to avoid enforcement action on emerging influencer targeting channel.</description>
       <category>New York Times</category>
+      <ns1:encoded>&lt;![CDATA[Tom Steyer and other campaigns are paying influencers without proper FTC disclosures; California FPPC investigating. Campaigns must establish compliance protocols now to avoid enforcement action on emerging influencer targeting channel.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>For 2026: Local TV Ad Trend Going To The 'Core'</title>
       <link>https://www.mediapost.com/publications/article/414960/for-2026-local-tv-ad-trend-going-to-the-core.html</link>
       <guid isPermaLink="true">https://www.mediapost.com/publications/article/414960/for-2026-local-tv-ad-trend-going-to-the-core.html</guid>
-      <pubDate>Sat, 16 May 2026 22:11:10 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 22:11:10 GMT</pubDate>
       <description>Political TV ad spending surge (Nexstar +$6M YoY to $41M; Sinclair +$12M to $18M; Scripps up 173%) masks fundamental decline in core advertising and audience ratings. Political window is temporary; campaigns hedging with CTV and programmatic alternatives will outcompete local-only buyers post-midterms.</description>
       <category>MediaPost</category>
-      <content:encoded>&lt;p&gt;Political TV ad spending surge (Nexstar +$6M YoY to $41M; Sinclair +$12M to $18M; Scripps up 173%) masks fundamental decline in core advertising and audience ratings. Political window is temporary; campaigns hedging with CTV and programmatic alternatives will outcompete local-only buyers post-midterms.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://s3.amazonaws.com/static.mediapost.com/publications/images/mp-logo-fb.jpg&quot; alt=&quot;For 2026: Local TV Ad Trend Going To The 'Core'&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Political TV ad spending surge (Nexstar +$6M YoY to $41M; Sinclair +$12M to $18M; Scripps up 173%) masks fundamental decline in core advertising and audience ratings. Political window is temporary; campaigns hedging with CTV and programmatic alternatives will outcompete local-only buyers post-midterms.
+
+&lt;img src="https://s3.amazonaws.com/static.mediapost.com/publications/images/mp-logo-fb.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Digital voter suppression ads tied to lower election turnout among specific demographic groups</title>
       <link>https://www.psypost.org/digital-voter-suppression-ads-tied-to-lower-election-turnout/</link>
       <guid isPermaLink="true">https://www.psypost.org/digital-voter-suppression-ads-tied-to-lower-election-turnout/</guid>
-      <pubDate>Sat, 16 May 2026 22:11:10 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 22:11:10 GMT</pubDate>
       <description>PNAS study with real voting records: targeted digital suppression ads reduce minority voter turnout by 14 percentage points in battleground counties. Campaigns without defensive mobilization infrastructure and counter-suppression messaging will lose swing districts in 2026.</description>
       <category>PsyPost</category>
-      <content:encoded>&lt;p&gt;PNAS study with real voting records: targeted digital suppression ads reduce minority voter turnout by 14 percentage points in battleground counties. Campaigns without defensive mobilization infrastructure and counter-suppression messaging will lose swing districts in 2026.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://www.psypost.org/wp-content/uploads/2024/08/voter.jpg&quot; alt=&quot;Digital voter suppression ads tied to lower election turnout among specific demographic groups&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[PNAS study with real voting records: targeted digital suppression ads reduce minority voter turnout by 14 percentage points in battleground counties. Campaigns without defensive mobilization infrastructure and counter-suppression messaging will lose swing districts in 2026.
+
+&lt;img src="https://www.psypost.org/wp-content/uploads/2024/08/voter.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>House talks look at blocking some state AI laws, including in California and New York</title>
       <link>https://www.politico.com/news/2026/05/15/house-ai-talks-model-vetting-00924955</link>
       <guid isPermaLink="true">https://www.politico.com/news/2026/05/15/house-ai-talks-model-vetting-00924955</guid>
-      <pubDate>Sat, 16 May 2026 22:11:10 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 22:11:10 GMT</pubDate>
       <description>Federal AI preemption legislation threatens state-level restrictions on AI in political advertising—campaigns scaling AI-powered ad creative will gain regulatory certainty advantage over state-compliant competitors. Table-stakes capability by November 2026.</description>
       <category>Politico</category>
-      <content:encoded>&lt;p&gt;Federal AI preemption legislation threatens state-level restrictions on AI in political advertising—campaigns scaling AI-powered ad creative will gain regulatory certainty advantage over state-compliant competitors. Table-stakes capability by November 2026.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fe0%2F9d%2F499c53944c569951289b4a0ab412%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2204258290&quot; alt=&quot;House talks look at blocking some state AI laws, including in California and New York&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Federal AI preemption legislation threatens state-level restrictions on AI in political advertising—campaigns scaling AI-powered ad creative will gain regulatory certainty advantage over state-compliant competitors. Table-stakes capability by November 2026.
+
+&lt;img src="https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fe0%2F9d%2F499c53944c569951289b4a0ab412%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2204258290" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Roku's Political Advertising Windfall: Masking a Platform Revenue Deceleration Nobody Wants to Mention</title>
       <link>https://www.barchart.com/story/news/1602110/roku-s-political-advertising-windfall-masking-a-platform-revenue-deceleration-nobody-wants-to-mention</link>
       <guid isPermaLink="true">https://www.barchart.com/story/news/1602110/roku-s-political-advertising-windfall-masking-a-platform-revenue-deceleration-nobody-wants-to-mention</guid>
-      <pubDate>Sat, 16 May 2026 14:13:13 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 14:13:13 GMT</pubDate>
       <description>Political advertising spending is the primary growth driver for Roku Q1 2026; CTV is now the default platform for political campaigns. Streaming video inventory is tightening ahead of 2026 election. Campaigns that don't lock in CTV budgets by Q2 will face supply shortages and premium pricing in Q3-Q4. CTV CPMs for political content are rising 35-40% week-over-week.</description>
       <category>BarChart</category>
+      <ns1:encoded>&lt;![CDATA[Political advertising spending is the primary growth driver for Roku Q1 2026; CTV is now the default platform for political campaigns. Streaming video inventory is tightening ahead of 2026 election. Campaigns that don't lock in CTV budgets by Q2 will face supply shortages and premium pricing in Q3-Q4. CTV CPMs for political content are rising 35-40% week-over-week.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>YouTube's AI Deepfake Detection Tool Is Now Available To All Creators 18 And Older</title>
       <link>https://www.techbuzz.ai/articles/youtube-is-expanding-its-ai-deepfake-detection-tool-to-all-adult-users</link>
       <guid isPermaLink="true">https://www.techbuzz.ai/articles/youtube-is-expanding-its-ai-deepfake-detection-tool-to-all-adult-users</guid>
-      <pubDate>Sat, 16 May 2026 14:13:02 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 14:13:02 GMT</pubDate>
       <description>YouTube is expanding deepfake detection to all adult users—a critical platform policy change that affects campaigns using AI-generated video content. Synthetic media on political ads now faces automated detection and removal. Campaigns relying on AI video must audit content and shift strategy, or face platform removal and reputational damage by October.</description>
       <category>TechBuzz</category>
-      <content:encoded>&lt;p&gt;YouTube is expanding deepfake detection to all adult users—a critical platform policy change that affects campaigns using AI-generated video content. Synthetic media on political ads now faces automated detection and removal. Campaigns relying on AI video must audit content and shift strategy, or face platform removal and reputational damage by October.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://www.techbuzz.ai/cdn-cgi/image/width=1200,quality=85,format=auto,fit=cover/https://charming-card-d91ad3487b.media.strapiapp.com/large_file_c8e5d165f9.png&quot; alt=&quot;YouTube's AI Deepfake Detection Tool Is Now Available To All Creators 18 And Older&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[YouTube is expanding deepfake detection to all adult users—a critical platform policy change that affects campaigns using AI-generated video content. Synthetic media on political ads now faces automated detection and removal. Campaigns relying on AI video must audit content and shift strategy, or face platform removal and reputational damage by October.
+
+&lt;img src="https://www.techbuzz.ai/cdn-cgi/image/width=1200,quality=85,format=auto,fit=cover/https://charming-card-d91ad3487b.media.strapiapp.com/large_file_c8e5d165f9.png" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>I built a nonpartisan tracker for AI PAC spending in the 2026 midterms</title>
       <link>https://forum.effectivealtruism.org/posts/SQkJcr6btpq8amMBv/i-built-a-nonpartisan-tracker-for-ai-pac-spending-in-the</link>
       <guid isPermaLink="true">https://forum.effectivealtruism.org/posts/SQkJcr6btpq8amMBv/i-built-a-nonpartisan-tracker-for-ai-pac-spending-in-the</guid>
-      <pubDate>Sat, 16 May 2026 14:12:53 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 14:12:53 GMT</pubDate>
       <description>Tech and AI companies have injected $185M into 2026 midterms through PAC networks backing 25 federal candidates. Policy agenda is deliberately separated from campaign messaging—making it difficult for political operatives to understand which candidates are AI-backed and what trade-offs come with that funding.</description>
       <category>Effective Altruism Forum</category>
+      <ns1:encoded>&lt;![CDATA[Tech and AI companies have injected $185M into 2026 midterms through PAC networks backing 25 federal candidates. Policy agenda is deliberately separated from campaign messaging—making it difficult for political operatives to understand which candidates are AI-backed and what trade-offs come with that funding.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Political Money Is Flowing to Influencers. But From Whom?</title>
       <link>https://www.nytimes.com/2026/05/16/business/media/influencers-political-financing-disclosure.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/16/business/media/influencers-political-financing-disclosure.html</guid>
-      <pubDate>Sat, 16 May 2026 14:12:44 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 14:12:44 GMT</pubDate>
       <description>Influencer payments for political endorsements are rising fast, but disclosure requirements remain murky. Campaigns are shifting budgets to influencer partnerships without traditional campaign finance transparency. Political operatives missing this emerging channel risk being out-reached by competitors who scale influencer networks.</description>
       <category>New York Times</category>
+      <ns1:encoded>&lt;![CDATA[Influencer payments for political endorsements are rising fast, but disclosure requirements remain murky. Campaigns are shifting budgets to influencer partnerships without traditional campaign finance transparency. Political operatives missing this emerging channel risk being out-reached by competitors who scale influencer networks.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Green signs bill to restrict corporate political spending</title>
       <link>https://spectrumlocalnews.com/hi/hawaii/news/2026/05/15/green-signs-bill-to-restrict-corporate-political-spending</link>
       <guid isPermaLink="true">https://spectrumlocalnews.com/hi/hawaii/news/2026/05/15/green-signs-bill-to-restrict-corporate-political-spending</guid>
-      <pubDate>Fri, 15 May 2026 22:12:15 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 22:12:15 GMT</pubDate>
       <description>Hawaii Gov. Josh Green enacted Act 11, the first major state-level challenge to Citizens United by restricting corporate and Super PAC spending in elections. While legal challenges are expected, the law signals states are moving on campaign finance restrictions—affecting ad buyer strategies and Super PAC spending structures.</description>
       <category>Spectrum News</category>
-      <content:encoded>&lt;p&gt;Hawaii Gov. Josh Green enacted Act 11, the first major state-level challenge to Citizens United by restricting corporate and Super PAC spending in elections. While legal challenges are expected, the law signals states are moving on campaign finance restrictions—affecting ad buyer strategies and Super PAC spending structures.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://s7d2.scene7.com/is/image/TWCNews/Jarrett_Keohokalole_MT_HI_0515&quot; alt=&quot;Green signs bill to restrict corporate political spending&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Hawaii Gov. Josh Green enacted Act 11, the first major state-level challenge to Citizens United by restricting corporate and Super PAC spending in elections. While legal challenges are expected, the law signals states are moving on campaign finance restrictions—affecting ad buyer strategies and Super PAC spending structures.
+
+&lt;img src="https://s7d2.scene7.com/is/image/TWCNews/Jarrett_Keohokalole_MT_HI_0515" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
-      <title>Democrats eye &quot;hidden&quot; Latino battlegrounds in 2026</title>
+      <title>Democrats eye "hidden" Latino battlegrounds in 2026</title>
       <link>https://www.axios.com/2026/05/15/democrats-latino-voters-2026</link>
       <guid isPermaLink="true">https://www.axios.com/2026/05/15/democrats-latino-voters-2026</guid>
-      <pubDate>Fri, 15 May 2026 22:12:15 +0000</pubDate>
-      <description>New demographic modeling reveals Latino voters in GOP-drawn &quot;safe&quot; districts are reversing 2024 gains toward Republicans. Democrats are redirecting ad spend into competitive districts across Texas, California, New York, and Nevada—a strategic reallocation that signals major audience targeting shifts for 2026.</description>
+      <pubDate>Fri, 15 May 2026 22:12:15 GMT</pubDate>
+      <description>New demographic modeling reveals Latino voters in GOP-drawn "safe" districts are reversing 2024 gains toward Republicans. Democrats are redirecting ad spend into competitive districts across Texas, California, New York, and Nevada—a strategic reallocation that signals major audience targeting shifts for 2026.</description>
       <category>Axios</category>
-      <content:encoded>&lt;p&gt;New demographic modeling reveals Latino voters in GOP-drawn &quot;safe&quot; districts are reversing 2024 gains toward Republicans. Democrats are redirecting ad spend into competitive districts across Texas, California, New York, and Nevada—a strategic reallocation that signals major audience targeting shifts for 2026.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://images.axios.com/Ke5lz8_pFwDKEqBfd9LNTKHIrrI=/0x0:1920x1080/1920x1080/2026/05/08/1778263326632.jpeg?w=3840&quot; alt=&quot;Democrats eye &quot;hidden&quot; Latino battlegrounds in 2026&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[New demographic modeling reveals Latino voters in GOP-drawn "safe" districts are reversing 2024 gains toward Republicans. Democrats are redirecting ad spend into competitive districts across Texas, California, New York, and Nevada—a strategic reallocation that signals major audience targeting shifts for 2026.
+
+&lt;img src="https://images.axios.com/Ke5lz8_pFwDKEqBfd9LNTKHIrrI=/0x0:1920x1080/1920x1080/2026/05/08/1778263326632.jpeg?w=3840" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>The Steyer campaign pays influencers. Their posts don't always make that clear</title>
       <link>https://www.latimes.com/politics/story/2026-05-15/steyer-campaign-pays-influencers-their-posts-dont-always-make-that-clear</link>
       <guid isPermaLink="true">https://www.latimes.com/politics/story/2026-05-15/steyer-campaign-pays-influencers-their-posts-dont-always-make-that-clear</guid>
-      <pubDate>Fri, 15 May 2026 22:11:55 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 22:11:55 GMT</pubDate>
       <description>Tom Steyer's gubernatorial campaign is under investigation for paying influencers without proper disclosure, violating California's 2023 influencer disclosure law. This marks the first major enforcement test for paid political influencer content—campaigns must now budget for compliance infrastructure or risk FPPC enforcement action.</description>
       <category>Los Angeles Times</category>
-      <content:encoded>&lt;p&gt;Tom Steyer's gubernatorial campaign is under investigation for paying influencers without proper disclosure, violating California's 2023 influencer disclosure law. This marks the first major enforcement test for paid political influencer content—campaigns must now budget for compliance infrastructure or risk FPPC enforcement action.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ca-times.brightspotcdn.com/dims4/default/528739b/2147483647/strip/true/crop/4000x2667+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F59%2F52%2Ffc5d63ac43b6830b51afe56331b4%2F1554694-me-tom-steyer-east-la-327.jpg&quot; alt=&quot;The Steyer campaign pays influencers. Their posts don't always make that clear&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Tom Steyer's gubernatorial campaign is under investigation for paying influencers without proper disclosure, violating California's 2023 influencer disclosure law. This marks the first major enforcement test for paid political influencer content—campaigns must now budget for compliance infrastructure or risk FPPC enforcement action.
+
+&lt;img src="https://ca-times.brightspotcdn.com/dims4/default/528739b/2147483647/strip/true/crop/4000x2667+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F59%2F52%2Ffc5d63ac43b6830b51afe56331b4%2F1554694-me-tom-steyer-east-la-327.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>AI-generated pro-Spencer Pratt mayoral campaign videos point to a new campaign tool</title>
       <link>https://www.nbcnews.com/tech/tech-news/spencer-pratt-los-angeles-mayoral-campaign-ai-videos-rcna345064</link>
       <guid isPermaLink="true">https://www.nbcnews.com/tech/tech-news/spencer-pratt-los-angeles-mayoral-campaign-ai-videos-rcna345064</guid>
-      <pubDate>Fri, 15 May 2026 22:11:55 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 22:11:55 GMT</pubDate>
       <description>AI-generated videos supporting Spencer Pratt for LA mayor have gone viral, demonstrating how generative AI is becoming a mainstream campaign tool for creating compelling political narratives at scale. Campaign operators must now budget for AI content production alongside traditional creative.</description>
       <category>NBC News</category>
-      <content:encoded>&lt;p&gt;AI-generated videos supporting Spencer Pratt for LA mayor have gone viral, demonstrating how generative AI is becoming a mainstream campaign tool for creating compelling political narratives at scale. Campaign operators must now budget for AI content production alongside traditional creative.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2026-05/260513-Spencer-Pratt-ww-1813-59b877.jpg&quot; alt=&quot;AI-generated pro-Spencer Pratt mayoral campaign videos point to a new campaign tool&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[AI-generated videos supporting Spencer Pratt for LA mayor have gone viral, demonstrating how generative AI is becoming a mainstream campaign tool for creating compelling political narratives at scale. Campaign operators must now budget for AI content production alongside traditional creative.
+
+&lt;img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2026-05/260513-Spencer-Pratt-ww-1813-59b877.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Traditional TV is trying to make ads more like online advertising</title>
       <link>https://www.marketplace.org/story/2026/05/14/tv-companies-are-using-ai-to-improve-their-ad-programming</link>
       <guid isPermaLink="true">https://www.marketplace.org/story/2026/05/14/tv-companies-are-using-ai-to-improve-their-ad-programming</guid>
-      <pubDate>Fri, 15 May 2026 22:08:11 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 22:08:11 GMT</pubDate>
       <description>NBC, Fox, Warner Brothers, and other networks deploying agentic AI to buy/sell ads in real-time instead of upfront model—creating responsive, dynamic ad delivery that mirrors programmatic. Political campaigns can now adjust targeting and messaging at the same speed as digital platforms.</description>
       <category>Marketplace</category>
+      <ns1:encoded>&lt;![CDATA[NBC, Fox, Warner Brothers, and other networks deploying agentic AI to buy/sell ads in real-time instead of upfront model—creating responsive, dynamic ad delivery that mirrors programmatic. Political campaigns can now adjust targeting and messaging at the same speed as digital platforms.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Congressional Campaign CTV Strategy: A District-Level CTV Playbook for the 2026 Cycle</title>
       <link>https://adwave.com/resources/congressional-campaign-ctv-strategy</link>
       <guid isPermaLink="true">https://adwave.com/resources/congressional-campaign-ctv-strategy</guid>
-      <pubDate>Fri, 15 May 2026 22:08:00 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 22:08:00 GMT</pubDate>
       <description>CTV is now the anchor channel for 2026 House races (55–70% of TV spend), replacing broadcast as default; campaigns without district-level CTV targeting by Q3 2026 face structural disadvantage on persuasion efficiency, frequency optimization, and real-time creative velocity.</description>
       <category>Adwave</category>
+      <ns1:encoded>&lt;![CDATA[CTV is now the anchor channel for 2026 House races (55–70% of TV spend), replacing broadcast as default; campaigns without district-level CTV targeting by Q3 2026 face structural disadvantage on persuasion efficiency, frequency optimization, and real-time creative velocity.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Digiday Programmatic Marketing Summit May Recap: How marketers are navigating agentic ad buying</title>
       <link>https://digiday.com/marketing/digiday-programmatic-marketing-summit-may-recap-how-marketers-are-navigating-agentic-ad-buying/</link>
       <guid isPermaLink="true">https://digiday.com/marketing/digiday-programmatic-marketing-summit-may-recap-how-marketers-are-navigating-agentic-ad-buying/</guid>
-      <pubDate>Fri, 15 May 2026 22:07:50 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 22:07:50 GMT</pubDate>
       <description>Agentic AI ad buying is already live across brands and agencies; the competitive edge isn't the AI—it's the process guardrails and real-time decisioning velocity that separate winners from laggards in 2026 campaign cycles.</description>
       <category>Digiday</category>
-      <content:encoded>&lt;p&gt;Agentic AI ad buying is already live across brands and agencies; the competitive edge isn't the AI—it's the process guardrails and real-time decisioning velocity that separate winners from laggards in 2026 campaign cycles.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://digiday.com/wp-content/uploads/sites/3/2026/05/agentic-buy-digiday.jpg&quot; alt=&quot;Digiday Programmatic Marketing Summit May Recap: How marketers are navigating agentic ad buying&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Agentic AI ad buying is already live across brands and agencies; the competitive edge isn't the AI—it's the process guardrails and real-time decisioning velocity that separate winners from laggards in 2026 campaign cycles.
+
+&lt;img src="https://digiday.com/wp-content/uploads/sites/3/2026/05/agentic-buy-digiday.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Adform Opens Full-Stack Infrastructure for Agentic Advertising</title>
       <link>https://www.advanced-television.com/2026/05/14/adform-opens-full-stack-infrastructure-for-agentic-advertising/</link>
       <guid isPermaLink="true">https://www.advanced-television.com/2026/05/14/adform-opens-full-stack-infrastructure-for-agentic-advertising/</guid>
-      <pubDate>Fri, 15 May 2026 22:07:41 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 22:07:41 GMT</pubDate>
       <description>Adform enables 800+ agentic capabilities across integrated platform; agencies can now interact directly through Claude, ChatGPT, or proprietary AI tools—fundamentally shifting how political media buyers access optimization, forecasting, and real-time campaign adjustments.</description>
       <category>Advanced Television</category>
+      <ns1:encoded>&lt;![CDATA[Adform enables 800+ agentic capabilities across integrated platform; agencies can now interact directly through Claude, ChatGPT, or proprietary AI tools—fundamentally shifting how political media buyers access optimization, forecasting, and real-time campaign adjustments.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Marketers put up guardrails as AI agents reshape programmatic buying</title>
       <link>https://digiday.com/marketing/marketers-put-up-guardrails-as-ai-agents-reshape-programmatic-buying/</link>
       <guid isPermaLink="true">https://digiday.com/marketing/marketers-put-up-guardrails-as-ai-agents-reshape-programmatic-buying/</guid>
-      <pubDate>Thu, 14 May 2026 22:08:48 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 22:08:48 GMT</pubDate>
       <description>AI agents in programmatic media buying are being adopted but heavily guardrailed by marketers concerned about budget autonomy and transparency. Campaigns deploying agentic AI must build governance frameworks with spend caps, human oversight, and decision logging to prevent runway spend and maintain control.</description>
       <category>Digiday</category>
-      <content:encoded>&lt;p&gt;AI agents in programmatic media buying are being adopted but heavily guardrailed by marketers concerned about budget autonomy and transparency. Campaigns deploying agentic AI must build governance frameworks with spend caps, human oversight, and decision logging to prevent runway spend and maintain control.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://digiday.com/wp-content/uploads/sites/3/2026/05/open-ai-pitch-digiday.jpg&quot; alt=&quot;Marketers put up guardrails as AI agents reshape programmatic buying&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[AI agents in programmatic media buying are being adopted but heavily guardrailed by marketers concerned about budget autonomy and transparency. Campaigns deploying agentic AI must build governance frameworks with spend caps, human oversight, and decision logging to prevent runway spend and maintain control.
+
+&lt;img src="https://digiday.com/wp-content/uploads/sites/3/2026/05/open-ai-pitch-digiday.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>By the numbers: Ad tech's quarter of mixed fortunes</title>
       <link>https://digiday.com/media-buying/by-the-numbers-ad-techs-quarter-of-mixed-fortunes/</link>
       <guid isPermaLink="true">https://digiday.com/media-buying/by-the-numbers-ad-techs-quarter-of-mixed-fortunes/</guid>
-      <pubDate>Thu, 14 May 2026 22:08:48 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 22:08:48 GMT</pubDate>
       <description>Q1 2026 ad tech earnings show CTV is now 50%+ of spend on major DSPs and the only growth channel. Campaigns delaying CTV budget allocation will face inventory scarcity and premium pricing by Q3; budget reallocation decisions this quarter have direct Q4 performance impact.</description>
       <category>Digiday</category>
-      <content:encoded>&lt;p&gt;Q1 2026 ad tech earnings show CTV is now 50%+ of spend on major DSPs and the only growth channel. Campaigns delaying CTV budget allocation will face inventory scarcity and premium pricing by Q3; budget reallocation decisions this quarter have direct Q4 performance impact.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://digiday.com/wp-content/uploads/sites/3/2024/12/shopping-data-digiday.jpg&quot; alt=&quot;By the numbers: Ad tech's quarter of mixed fortunes&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Q1 2026 ad tech earnings show CTV is now 50%+ of spend on major DSPs and the only growth channel. Campaigns delaying CTV budget allocation will face inventory scarcity and premium pricing by Q3; budget reallocation decisions this quarter have direct Q4 performance impact.
+
+&lt;img src="https://digiday.com/wp-content/uploads/sites/3/2024/12/shopping-data-digiday.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Ad wars ramp up in D.C. mayoral race as primary enters final month</title>
       <link>https://www.washingtonpost.com/dc-md-va/2026/05/14/ads-target-dc-mayoral-hopefuls-crime-utilities-ahead-june-primary/</link>
       <guid isPermaLink="true">https://www.washingtonpost.com/dc-md-va/2026/05/14/ads-target-dc-mayoral-hopefuls-crime-utilities-ahead-june-primary/</guid>
-      <pubDate>Thu, 14 May 2026 22:08:48 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 22:08:48 GMT</pubDate>
       <description>Two independent expenditure committees ($300k+ each) are running coordinated opposition against same candidate vulnerabilities—crime, utilities, ethics. Campaigns can now predict attack vectors and build counter-messaging in advance; pre-campaign opposition mapping is now essential for survival.</description>
       <category>Washington Post</category>
-      <content:encoded>&lt;p&gt;Two independent expenditure committees ($300k+ each) are running coordinated opposition against same candidate vulnerabilities—crime, utilities, ethics. Campaigns can now predict attack vectors and build counter-messaging in advance; pre-campaign opposition mapping is now essential for survival.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PGUBVUJQIRFYLF6QQYYJ6OXJAA.png&quot; alt=&quot;Ad wars ramp up in D.C. mayoral race as primary enters final month&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Two independent expenditure committees ($300k+ each) are running coordinated opposition against same candidate vulnerabilities—crime, utilities, ethics. Campaigns can now predict attack vectors and build counter-messaging in advance; pre-campaign opposition mapping is now essential for survival.
+
+&lt;img src="https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PGUBVUJQIRFYLF6QQYYJ6OXJAA.png" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Outside cash floods U.S House runoffs in Texas</title>
       <link>https://www.texastribune.org/2026/05/14/texas-congress-runoffs-us-house-outside-money-pacs/</link>
       <guid isPermaLink="true">https://www.texastribune.org/2026/05/14/texas-congress-runoffs-us-house-outside-money-pacs/</guid>
-      <pubDate>Thu, 14 May 2026 22:08:47 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 22:08:47 GMT</pubDate>
       <description>Outside groups now control 89% of ad spend in Texas congressional runoffs—up from 29% in 2020. Campaigns running independent of outside spending cannot compete; rapid-response to external messaging and coalition coordination are now table stakes for 2026.</description>
       <category>Texas Tribune</category>
-      <content:encoded>&lt;p&gt;Outside groups now control 89% of ad spend in Texas congressional runoffs—up from 29% in 2020. Campaigns running independent of outside spending cannot compete; rapid-response to external messaging and coalition coordination are now table stakes for 2026.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://i0.wp.com/www.texastribune.org/wp-content/uploads/2024/12/DC20Capitol20Hill20Jan20620SH2006-1-scaled.jpg&quot; alt=&quot;Outside cash floods U.S House runoffs in Texas&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Outside groups now control 89% of ad spend in Texas congressional runoffs—up from 29% in 2020. Campaigns running independent of outside spending cannot compete; rapid-response to external messaging and coalition coordination are now table stakes for 2026.
+
+&lt;img src="https://i0.wp.com/www.texastribune.org/wp-content/uploads/2024/12/DC20Capitol20Hill20Jan20620SH2006-1-scaled.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Nexxen Q1 2026: Programmatic Revenue +14% YoY, CTVIDAA Home Screen +12%; First Mover Advantage in Smart TV Native Advertising—Political Campaigns Enter New Inventory Class</title>
       <link>https://www.aol.com/articles/nexxen-nexn-q1-2026-earnings-144019413.html</link>
       <guid isPermaLink="true">https://www.aol.com/articles/nexxen-nexn-q1-2026-earnings-144019413.html</guid>
-      <pubDate>Thu, 14 May 2026 14:19:25 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 14:19:25 GMT</pubDate>
       <description>Nexxen reports record Q1 programmatic revenue $81.9M (+14% YoY), with CTVIDAA home screen revenue +12% YoY and first-mover advantage in smart TV native ads. Partnerships with TCL, TiVo, LG, and Trade Desk unlock ~35M devices with 10+ minutes daily viewer engagement; midterm election cycle identified as 'meaningful revenue opportunity' with growing political partnerships. Mobile in-app +18% YoY; enterprise customer count exceeded 2025 total within Q1 2026.</description>
       <category>Motley Fool / AOL</category>
-      <content:encoded>&lt;p&gt;Nexxen reports record Q1 programmatic revenue $81.9M (+14% YoY), with CTVIDAA home screen revenue +12% YoY and first-mover advantage in smart TV native ads. Partnerships with TCL, TiVo, LG, and Trade Desk unlock ~35M devices with 10+ minutes daily viewer engagement; midterm election cycle identified as 'meaningful revenue opportunity' with growing political partnerships. Mobile in-app +18% YoY; enterprise customer count exceeded 2025 total within Q1 2026.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://s.yimg.com/lo/mysterio/api/3A32626957245EC7B524A20E2C2F2DA0292E98C80752DA5A96B7020B90AD66AD/subgraphmysterio/resizefill_w976_h1042;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_the_motley_fool_392%2F0bd598d880596b304169552d213dd39f&quot; alt=&quot;Nexxen Q1 2026: Programmatic Revenue +14% YoY, CTVIDAA Home Screen +12%; First Mover Advantage in Smart TV Native Advertising—Political Campaigns Enter New Inventory Class&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Nexxen reports record Q1 programmatic revenue $81.9M (+14% YoY), with CTVIDAA home screen revenue +12% YoY and first-mover advantage in smart TV native ads. Partnerships with TCL, TiVo, LG, and Trade Desk unlock ~35M devices with 10+ minutes daily viewer engagement; midterm election cycle identified as 'meaningful revenue opportunity' with growing political partnerships. Mobile in-app +18% YoY; enterprise customer count exceeded 2025 total within Q1 2026.
+
+&lt;img src="https://s.yimg.com/lo/mysterio/api/3A32626957245EC7B524A20E2C2F2DA0292E98C80752DA5A96B7020B90AD66AD/subgraphmysterio/resizefill_w976_h1042;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_the_motley_fool_392%2F0bd598d880596b304169552d213dd39f" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Magnite Q1 2026: CTV Contribution ex-TAC +30% YoY; SpringServe Becomes 'Operating System for CTV Monetization'—Political Buyers Must Adopt By Q3</title>
       <link>https://www.aol.com/finance/magnite-mgni-q1-2026-earnings-220509925.html</link>
       <guid isPermaLink="true">https://www.aol.com/finance/magnite-mgni-q1-2026-earnings-220509925.html</guid>
-      <pubDate>Thu, 14 May 2026 14:19:25 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 14:19:25 GMT</pubDate>
       <description>Magnite's SpringServe platform powers 51% of revenue with 30% YoY CTV contribution ex-TAC growth; introduced live sports programmatic (80% March Madness growth) and commerce media partnerships (Expedia, Walmart, Roku). For political campaigns: SpringServe now the essential infrastructure layer connecting all CTV inventory; campaigns without direct SpringServe/Magnite access will fragment targeting and waste budget across multiple publishers.</description>
       <category>Motley Fool / AOL</category>
-      <content:encoded>&lt;p&gt;Magnite's SpringServe platform powers 51% of revenue with 30% YoY CTV contribution ex-TAC growth; introduced live sports programmatic (80% March Madness growth) and commerce media partnerships (Expedia, Walmart, Roku). For political campaigns: SpringServe now the essential infrastructure layer connecting all CTV inventory; campaigns without direct SpringServe/Magnite access will fragment targeting and waste budget across multiple publishers.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://s.yimg.com/lo/mysterio/api/3A32626957245EC7B524A20E2C2F2DA0292E98C80752DA5A96B7020B90AD66AD/subgraphmysterio/resizefill_w976_h1042;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_the_motley_fool_392%2F0bd598d880596b304169552d213dd39f&quot; alt=&quot;Magnite Q1 2026: CTV Contribution ex-TAC +30% YoY; SpringServe Becomes 'Operating System for CTV Monetization'—Political Buyers Must Adopt By Q3&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Magnite's SpringServe platform powers 51% of revenue with 30% YoY CTV contribution ex-TAC growth; introduced live sports programmatic (80% March Madness growth) and commerce media partnerships (Expedia, Walmart, Roku). For political campaigns: SpringServe now the essential infrastructure layer connecting all CTV inventory; campaigns without direct SpringServe/Magnite access will fragment targeting and waste budget across multiple publishers.
+
+&lt;img src="https://s.yimg.com/lo/mysterio/api/3A32626957245EC7B524A20E2C2F2DA0292E98C80752DA5A96B7020B90AD66AD/subgraphmysterio/resizefill_w976_h1042;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_the_motley_fool_392%2F0bd598d880596b304169552d213dd39f" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>The Trade Desk (TTD) Q1 2026 Earnings: 12% Revenue Growth, Agentic AI Partnerships Signal 2026 Dominance for Programmatic Buyers</title>
       <link>https://www.aol.com/articles/trade-desk-ttd-q1-2026-230612709.html</link>
       <guid isPermaLink="true">https://www.aol.com/articles/trade-desk-ttd-q1-2026-230612709.html</guid>
-      <pubDate>Thu, 14 May 2026 14:19:25 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 14:19:25 GMT</pubDate>
       <description>The Trade Desk reports 12% YoY revenue growth to $689M with 30% EBITDA margin; CTV now 50%+ of business with 55% JBP growth in Q1 and first Agentic AI partnership with Stagwell. For political campaigns: measurement reform, AI-driven decisioning, and expanded CTV inventory create structural advantage in 2026. Campaigns delaying CTV adoption face inventory constraints and cost premiums by Q3.</description>
       <category>Motley Fool / AOL</category>
-      <content:encoded>&lt;p&gt;The Trade Desk reports 12% YoY revenue growth to $689M with 30% EBITDA margin; CTV now 50%+ of business with 55% JBP growth in Q1 and first Agentic AI partnership with Stagwell. For political campaigns: measurement reform, AI-driven decisioning, and expanded CTV inventory create structural advantage in 2026. Campaigns delaying CTV adoption face inventory constraints and cost premiums by Q3.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://s.yimg.com/lo/mysterio/api/3A32626957245EC7B524A20E2C2F2DA0292E98C80752DA5A96B7020B90AD66AD/subgraphmysterio/resizefill_w976_h1042;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_the_motley_fool_392%2F0bd598d880596b304169552d213dd39f&quot; alt=&quot;The Trade Desk (TTD) Q1 2026 Earnings: 12% Revenue Growth, Agentic AI Partnerships Signal 2026 Dominance for Programmatic Buyers&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[The Trade Desk reports 12% YoY revenue growth to $689M with 30% EBITDA margin; CTV now 50%+ of business with 55% JBP growth in Q1 and first Agentic AI partnership with Stagwell. For political campaigns: measurement reform, AI-driven decisioning, and expanded CTV inventory create structural advantage in 2026. Campaigns delaying CTV adoption face inventory constraints and cost premiums by Q3.
+
+&lt;img src="https://s.yimg.com/lo/mysterio/api/3A32626957245EC7B524A20E2C2F2DA0292E98C80752DA5A96B7020B90AD66AD/subgraphmysterio/resizefill_w976_h1042;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_the_motley_fool_392%2F0bd598d880596b304169552d213dd39f" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Meta Profited From Illegal Scam Ads, California County Lawsuit Alleges</title>
       <link>https://www.theguardian.com/technology/2026/may/13/meta-scam-ads-california-lawsuit</link>
       <guid isPermaLink="true">https://www.theguardian.com/technology/2026/may/13/meta-scam-ads-california-lawsuit</guid>
-      <pubDate>Wed, 13 May 2026 22:06:56 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 22:06:56 GMT</pubDate>
       <description>Santa Clara county lawsuit alleges Meta earned $7B annually from high-risk scam ads and established guardrails to block fraud reduction efforts. Sets precedent for platform accountability in political advertising. Political campaigns should expect stricter Meta ad approval, longer review timelines, and higher rejection rates in 2026 cycle.</description>
       <category>The Guardian</category>
-      <content:encoded>&lt;p&gt;Santa Clara county lawsuit alleges Meta earned $7B annually from high-risk scam ads and established guardrails to block fraud reduction efforts. Sets precedent for platform accountability in political advertising. Political campaigns should expect stricter Meta ad approval, longer review timelines, and higher rejection rates in 2026 cycle.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://i.guim.co.uk/img/media/a4c2f30ae08ae0d309dbcc77ba66402c1cff3f3f/0_0_3439_2298/master/3439.jpg&quot; alt=&quot;Meta Profited From Illegal Scam Ads, California County Lawsuit Alleges&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Santa Clara county lawsuit alleges Meta earned $7B annually from high-risk scam ads and established guardrails to block fraud reduction efforts. Sets precedent for platform accountability in political advertising. Political campaigns should expect stricter Meta ad approval, longer review timelines, and higher rejection rates in 2026 cycle.
+
+&lt;img src="https://i.guim.co.uk/img/media/a4c2f30ae08ae0d309dbcc77ba66402c1cff3f3f/0_0_3439_2298/master/3439.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>State Lawmakers Want to Rein in Artificial Intelligence</title>
       <link>https://chicago.suntimes.com/springfield/2026/05/12/artificial-intelligence-regulation-legislation-illinois-general-assembly-proposals</link>
       <guid isPermaLink="true">https://chicago.suntimes.com/springfield/2026/05/12/artificial-intelligence-regulation-legislation-illinois-general-assembly-proposals</guid>
-      <pubDate>Wed, 13 May 2026 22:06:56 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 22:06:56 GMT</pubDate>
       <description>Illinois legislature advancing bills to ban negative deepfakes in political campaigns in 90 days before election, require AI disclosure in customer service, and establish product liability for chatbots. State-by-state AI restrictions now becoming reality—campaigns must prepare for state-specific deepfake and content disclosure rules by Q3 2026.</description>
       <category>Chicago Sun-Times</category>
+      <ns1:encoded>&lt;![CDATA[Illinois legislature advancing bills to ban negative deepfakes in political campaigns in 90 days before election, require AI disclosure in customer service, and establish product liability for chatbots. State-by-state AI restrictions now becoming reality—campaigns must prepare for state-specific deepfake and content disclosure rules by Q3 2026.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Nexxen Reports Record First Quarter 2026 Financial Results</title>
       <link>https://markets.businessinsider.com/news/stocks/nexxen-reports-record-first-quarter-2026-financial-results-1036149511</link>
       <guid isPermaLink="true">https://markets.businessinsider.com/news/stocks/nexxen-reports-record-first-quarter-2026-financial-results-1036149511</guid>
-      <pubDate>Wed, 13 May 2026 22:06:56 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 22:06:56 GMT</pubDate>
       <description>Nexxen TV Home Screen adoption scaling across The Trade Desk, StackAdapt, and Basis. CTV revenue hit record $29.4M (36% of programmatic). Smart TV home screen emerges as premium, non-skippable inventory attracting incremental political budgets—campaigns need Smart TV placements in 2026 media mix.</description>
       <category>Business Insider / GlobeNewswire</category>
-      <content:encoded>&lt;p&gt;Nexxen TV Home Screen adoption scaling across The Trade Desk, StackAdapt, and Basis. CTV revenue hit record $29.4M (36% of programmatic). Smart TV home screen emerges as premium, non-skippable inventory attracting incremental political budgets—campaigns need Smart TV placements in 2026 media mix.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ml-eu.globenewswire.com/media/010d9e21-47bb-4e39-be3e-6f1387ad88e5/small/nexxen-press-kit-01-png.png&quot; alt=&quot;Nexxen Reports Record First Quarter 2026 Financial Results&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Nexxen TV Home Screen adoption scaling across The Trade Desk, StackAdapt, and Basis. CTV revenue hit record $29.4M (36% of programmatic). Smart TV home screen emerges as premium, non-skippable inventory attracting incremental political budgets—campaigns need Smart TV placements in 2026 media mix.
+
+&lt;img src="https://ml-eu.globenewswire.com/media/010d9e21-47bb-4e39-be3e-6f1387ad88e5/small/nexxen-press-kit-01-png.png" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>AI deepfakes blur reality in 2026 US midterm campaigns</title>
       <link>https://www.reuters.com/business/media-telecom/ai-deepfakes-blur-reality-2026-us-midterm-campaigns-2026-03-28/</link>
       <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/ai-deepfakes-blur-reality-2026-us-midterm-campaigns-2026-03-28/</guid>
-      <pubDate>Wed, 13 May 2026 14:11:03 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 14:11:03 GMT</pubDate>
       <description>As AI-generated deepfakes proliferate in 2026, 28 states have enacted laws addressing deepfakes in political communications. Regulators struggle to enforce rules while campaigns increasingly weaponize synthetic media. Disclosure requirements remain murky.</description>
       <category>Reuters</category>
+      <ns1:encoded>&lt;![CDATA[As AI-generated deepfakes proliferate in 2026, 28 states have enacted laws addressing deepfakes in political communications. Regulators struggle to enforce rules while campaigns increasingly weaponize synthetic media. Disclosure requirements remain murky.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Is CTV's Political 'Tipping Point' Finally Here?</title>
       <link>https://www.thecurrent.com/political-streaming-ctv-political-tipping-point</link>
       <guid isPermaLink="true">https://www.thecurrent.com/political-streaming-ctv-political-tipping-point</guid>
-      <pubDate>Wed, 13 May 2026 14:11:02 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 14:11:02 GMT</pubDate>
       <description>AdImpact's data shows CTV as the only media channel growing in 2026 political ad spend. Connected TV is projected to capture $2.5B of the $10.8B total, marking a structural shift from linear TV dominance. Industry experts debate whether this is truly the 'tipping point' for CTV adoption.</description>
       <category>The Current</category>
+      <ns1:encoded>&lt;![CDATA[AdImpact's data shows CTV as the only media channel growing in 2026 political ad spend. Connected TV is projected to capture $2.5B of the $10.8B total, marking a structural shift from linear TV dominance. Industry experts debate whether this is truly the 'tipping point' for CTV adoption.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>The Supply Advantage: The Intelligence Infrastructure Driving 2026 Political Performance</title>
       <link>https://pubmatic.com/blog/the-supply-advantage-the-intelligence-infrastructure-driving-2026-political-performance/</link>
       <guid isPermaLink="true">https://pubmatic.com/blog/the-supply-advantage-the-intelligence-infrastructure-driving-2026-political-performance/</guid>
-      <pubDate>Wed, 13 May 2026 14:11:02 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 14:11:02 GMT</pubDate>
       <description>PubMatic reveals the 'blind spot' in political programmatic: sophisticated campaigns execute demand-side targeting but miss supply-side intelligence. Only 70 cents of every dollar reaches publishers in non-optimized supply paths. VoterConnect and AI infrastructure now enable closed-loop political ad systems.</description>
       <category>PubMatic</category>
-      <content:encoded>&lt;p&gt;PubMatic reveals the 'blind spot' in political programmatic: sophisticated campaigns execute demand-side targeting but miss supply-side intelligence. Only 70 cents of every dollar reaches publishers in non-optimized supply paths. VoterConnect and AI infrastructure now enable closed-loop political ad systems.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://pubmatic.com/wp-content/uploads/2026/04/Blog-Political-Performance.png&quot; alt=&quot;The Supply Advantage: The Intelligence Infrastructure Driving 2026 Political Performance&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[PubMatic reveals the 'blind spot' in political programmatic: sophisticated campaigns execute demand-side targeting but miss supply-side intelligence. Only 70 cents of every dollar reaches publishers in non-optimized supply paths. VoterConnect and AI infrastructure now enable closed-loop political ad systems.
+
+&lt;img src="https://pubmatic.com/wp-content/uploads/2026/04/Blog-Political-Performance.png" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Political Inventory in 2026: Where High Impact Supply Lives — and How to Buy It Smarter</title>
       <link>https://www.magnite.com/blog/political-inventory-in-2026-where-high-impact-supply-lives-and-how-to-buy-it-smarter/</link>
       <guid isPermaLink="true">https://www.magnite.com/blog/political-inventory-in-2026-where-high-impact-supply-lives-and-how-to-buy-it-smarter/</guid>
-      <pubDate>Wed, 13 May 2026 14:11:02 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 14:11:02 GMT</pubDate>
       <description>Magnite reveals that political supply is more fragmented than ever in 2026. Linear TV still dominates, but CTV is now the only channel gaining political ad spend. Buyers must rethink what 'premium' supply means and work directly with sources to eliminate margin erosion.</description>
       <category>Magnite</category>
-      <content:encoded>&lt;p&gt;Magnite reveals that political supply is more fragmented than ever in 2026. Linear TV still dominates, but CTV is now the only channel gaining political ad spend. Buyers must rethink what 'premium' supply means and work directly with sources to eliminate margin erosion.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://www.magnite.com/wp-content/uploads/2026/04/20260330_PoliticalInventory_01-Opt1.jpg&quot; alt=&quot;Political Inventory in 2026: Where High Impact Supply Lives — and How to Buy It Smarter&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[Magnite reveals that political supply is more fragmented than ever in 2026. Linear TV still dominates, but CTV is now the only channel gaining political ad spend. Buyers must rethink what 'premium' supply means and work directly with sources to eliminate margin erosion.
+
+&lt;img src="https://www.magnite.com/wp-content/uploads/2026/04/20260330_PoliticalInventory_01-Opt1.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Social media videos take center stage in L.A. mayoral campaign</title>
       <link>https://www.latimes.com/california/story/2026-05-13/social-media-videos-take-center-stage-in-la-mayoral-campaign</link>
       <guid isPermaLink="true">https://www.latimes.com/california/story/2026-05-13/social-media-videos-take-center-stage-in-la-mayoral-campaign</guid>
-      <pubDate>Wed, 13 May 2026 14:11:02 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 14:11:02 GMT</pubDate>
       <description>L.A. mayoral candidates are pivoting away from traditional TV to social media, with candidates like Spencer Pratt and Nithya Raman going viral while incumbent Karen Bass maintains a traditional ad strategy. AI-generated political ads are now central to the 2026 campaign.</description>
       <category>Los Angeles Times</category>
-      <content:encoded>&lt;p&gt;L.A. mayoral candidates are pivoting away from traditional TV to social media, with candidates like Spencer Pratt and Nithya Raman going viral while incumbent Karen Bass maintains a traditional ad strategy. AI-generated political ads are now central to the 2026 campaign.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ca-times.brightspotcdn.com/dims4/default/48fcda6/2147483647/strip/true/crop/2541x1694+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9f%2F42%2Fbcc506d141d68674caf82b1f92c3%2F1553236-me-mayoral-debate-jja-005.jpg&quot; alt=&quot;Social media videos take center stage in L.A. mayoral campaign&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[L.A. mayoral candidates are pivoting away from traditional TV to social media, with candidates like Spencer Pratt and Nithya Raman going viral while incumbent Karen Bass maintains a traditional ad strategy. AI-generated political ads are now central to the 2026 campaign.
+
+&lt;img src="https://ca-times.brightspotcdn.com/dims4/default/48fcda6/2147483647/strip/true/crop/2541x1694+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9f%2F42%2Fbcc506d141d68674caf82b1f92c3%2F1553236-me-mayoral-debate-jja-005.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Mike Johnson and Hakeem Jeffries take a backseat in midterm ads</title>
       <link>https://www.axios.com/2026/05/12/johnson-jeffries-trump-aoc-pelosi-mamdani-newsom</link>
       <guid isPermaLink="true">https://www.axios.com/2026/05/12/johnson-jeffries-trump-aoc-pelosi-mamdani-newsom</guid>
-      <pubDate>Tue, 12 May 2026 22:05:58 +0000</pubDate>
+      <pubDate>Tue, 12 May 2026 22:05:58 GMT</pubDate>
       <description>Despite spending billions to win control of the House, Democratic and Republican ad campaigns are barely mentioning congressional leaders Johnson and Jeffries. Instead, Trump, AOC, and Pelosi dominate midterm political ads.</description>
       <category>Axios</category>
+      <ns1:encoded>&lt;![CDATA[Despite spending billions to win control of the House, Democratic and Republican ad campaigns are barely mentioning congressional leaders Johnson and Jeffries. Instead, Trump, AOC, and Pelosi dominate midterm political ads.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Digitally altered political mailers spur lawsuit over Montana AI law</title>
       <link>https://dailyinterlake.com/news/2026/may/12/digitally-altered-political-mailers-spur-lawsuit-over-montana-ai-law/</link>
       <guid isPermaLink="true">https://dailyinterlake.com/news/2026/may/12/digitally-altered-political-mailers-spur-lawsuit-over-montana-ai-law/</guid>
-      <pubDate>Tue, 12 May 2026 22:05:58 +0000</pubDate>
+      <pubDate>Tue, 12 May 2026 22:05:58 GMT</pubDate>
       <description>Federal lawsuit challenges Montana's deepfake ban, raising First Amendment questions about AI-generated political content. A political committee sued over the state's law requiring disclosure of AI-altered images in campaign materials within 60 days of elections.</description>
       <category>Daily Interlake</category>
+      <ns1:encoded>&lt;![CDATA[Federal lawsuit challenges Montana's deepfake ban, raising First Amendment questions about AI-generated political content. A political committee sued over the state's law requiring disclosure of AI-altered images in campaign materials within 60 days of elections.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Q&amp;A: Do AI and bogus respondents threaten polling's future?</title>
       <link>https://www.pewresearch.org/short-reads/2026/05/12/qa-do-ai-and-bogus-respondents-threaten-pollings-future/</link>
       <guid isPermaLink="true">https://www.pewresearch.org/short-reads/2026/05/12/qa-do-ai-and-bogus-respondents-threaten-pollings-future/</guid>
-      <pubDate>Tue, 12 May 2026 22:05:58 +0000</pubDate>
-      <description>Pew Research addresses critical threats to polling integrity: AI-generated poll responses, fake survey respondents, and &quot;silicon sampling&quot;—key challenges for campaigns relying on voter intelligence and opinion research in 2026.</description>
+      <pubDate>Tue, 12 May 2026 22:05:58 GMT</pubDate>
+      <description>Pew Research addresses critical threats to polling integrity: AI-generated poll responses, fake survey respondents, and "silicon sampling"—key challenges for campaigns relying on voter intelligence and opinion research in 2026.</description>
       <category>Pew Research Center</category>
+      <ns1:encoded>&lt;![CDATA[Pew Research addresses critical threats to polling integrity: AI-generated poll responses, fake survey respondents, and "silicon sampling"—key challenges for campaigns relying on voter intelligence and opinion research in 2026.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Archetype Data and Aristotle Announce Partnership to Power Next-Generation Political Audience Segments</title>
       <link>https://markets.businessinsider.com/news/stocks/archetype-data-and-aristotle-announce-partnership-to-power-next-generation-political-audience-segments-1036144071</link>
       <guid isPermaLink="true">https://markets.businessinsider.com/news/stocks/archetype-data-and-aristotle-announce-partnership-to-power-next-generation-political-audience-segments-1036144071</guid>
-      <pubDate>Tue, 12 May 2026 22:05:58 +0000</pubDate>
+      <pubDate>Tue, 12 May 2026 22:05:58 GMT</pubDate>
       <description>Archetype Data and Aristotle announced a strategic partnership to deliver advanced, digital-ready audience segments for political campaigns by integrating Aristotle's voter data with Archetype's identity resolution and activation capabilities across all major DSPs and ad platforms.</description>
       <category>Business Insider</category>
+      <ns1:encoded>&lt;![CDATA[Archetype Data and Aristotle announced a strategic partnership to deliver advanced, digital-ready audience segments for political campaigns by integrating Aristotle's voter data with Archetype's identity resolution and activation capabilities across all major DSPs and ad platforms.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Is CTV's Political 'Tipping Point' Finally Here?</title>
       <link>https://www.thecurrent.com/political-streaming-ctv-political-tipping-point</link>
       <guid isPermaLink="true">https://www.thecurrent.com/political-streaming-ctv-political-tipping-point</guid>
-      <pubDate>Tue, 12 May 2026 14:14:09 +0000</pubDate>
+      <pubDate>Tue, 12 May 2026 14:14:09 GMT</pubDate>
       <description>Connected TV political spending is projected to reach $2.5B in 2026—more than double the 2022 midterms. Experts signal a shift where campaigns fund CTV first instead of treating it as an afterthought to broadcast.</description>
       <category>The Current</category>
+      <ns1:encoded>&lt;![CDATA[Connected TV political spending is projected to reach $2.5B in 2026—more than double the 2022 midterms. Experts signal a shift where campaigns fund CTV first instead of treating it as an afterthought to broadcast.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>Political Advertising on Social Media: What Campaigns Get Wrong</title>
       <link>https://www.iheartmedia.com/advertise/insights/articles/political-advertising-social-media-audio-effect</link>
       <guid isPermaLink="true">https://www.iheartmedia.com/advertise/insights/articles/political-advertising-social-media-audio-effect</guid>
-      <pubDate>Tue, 12 May 2026 14:14:09 +0000</pubDate>
+      <pubDate>Tue, 12 May 2026 14:14:09 GMT</pubDate>
       <description>Campaigns relying on social media alone miss a critical advantage: audio. AM/FM radio is 3X more trusted than social, and studies show adding audio to media plans lifts social brand lift by 83% and digital engagement by 109%.</description>
       <category>iHeartMedia</category>
+      <ns1:encoded>&lt;![CDATA[Campaigns relying on social media alone miss a critical advantage: audio. AM/FM radio is 3X more trusted than social, and studies show adding audio to media plans lifts social brand lift by 83% and digital engagement by 109%.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>AI-Generated Political Campaigns Are Getting Harder to Spot</title>
       <link>https://www.sourceofthespring.com/montgomery-county-news/2913461/ai-generated-political-campaigns-are-getting-harder-to-spot/</link>
       <guid isPermaLink="true">https://www.sourceofthespring.com/montgomery-county-news/2913461/ai-generated-political-campaigns-are-getting-harder-to-spot/</guid>
-      <pubDate>Tue, 12 May 2026 14:14:09 +0000</pubDate>
+      <pubDate>Tue, 12 May 2026 14:14:09 GMT</pubDate>
       <description>As AI-generated political content becomes increasingly realistic, experts warn that deepfakes now pose a real threat to voter confidence and election integrity. The NRSC's Talarico deepfake exemplifies the sophistication of current tools.</description>
       <category>Capital News Service / Source of the Spring</category>
-      <content:encoded>&lt;p&gt;As AI-generated political content becomes increasingly realistic, experts warn that deepfakes now pose a real threat to voter confidence and election integrity. The NRSC's Talarico deepfake exemplifies the sophistication of current tools.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://www.sourceofthespring.com/wp-content/uploads/2026/05/AI-Generated-Political-Campaigns-Are-Getting-Harder-to-Spot-scaled.jpg&quot; alt=&quot;AI-Generated Political Campaigns Are Getting Harder to Spot&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[As AI-generated political content becomes increasingly realistic, experts warn that deepfakes now pose a real threat to voter confidence and election integrity. The NRSC's Talarico deepfake exemplifies the sophistication of current tools.
+
+&lt;img src="https://www.sourceofthespring.com/wp-content/uploads/2026/05/AI-Generated-Political-Campaigns-Are-Getting-Harder-to-Spot-scaled.jpg" alt="Story image" /&gt;]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>OpenX Powers Political Reach With Preferred Access to Quality Direct Media for 2026 Midterms</title>
       <link>https://www.openx.com/press-releases/openx-powers-political-reach-with-preferred-access-to-quality-direct-media-for-the-2026-midterm-election-season/</link>
       <guid isPermaLink="true">https://www.openx.com/press-releases/openx-powers-political-reach-with-preferred-access-to-quality-direct-media-for-the-2026-midterm-election-season/</guid>
-      <pubDate>Tue, 12 May 2026 14:14:09 +0000</pubDate>
+      <pubDate>Tue, 12 May 2026 14:14:09 GMT</pubDate>
       <description>OpenX and Givsly partner to enable values-based voter targeting across CTV with ZIP-code precision and 24-hour activation speed, reshaping how campaigns access premium inventory during peak election season.</description>
       <category>OpenX</category>
+      <ns1:encoded>&lt;![CDATA[OpenX and Givsly partner to enable values-based voter targeting across CTV with ZIP-code precision and 24-hour activation speed, reshaping how campaigns access premium inventory during peak election season.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>At TV upfronts, AI is in and corporate shuffles reshape the line-up: Media giants pitch AI-driven advertising tools and measurement as 2026 buying season begins</title>
       <link>https://www.cnbc.com/2026/05/11/tv-upfronts-ai-data-industry-shifts.html</link>
       <guid isPermaLink="true">https://www.cnbc.com/2026/05/11/tv-upfronts-ai-data-industry-shifts.html</guid>
-      <pubDate>Mon, 11 May 2026 22:08:05 +0000</pubDate>
+      <pubDate>Mon, 11 May 2026 22:08:05 GMT</pubDate>
       <description>Major media companies (NBC, Fox, Disney, Amazon Prime Video) are emphasizing AI integration, data-driven outcomes, and live events at 2026 upfront presentations—signaling a structural shift in how TV ad buyers evaluate campaigns.</description>
       <category>CNBC</category>
+      <ns1:encoded>&lt;![CDATA[Major media companies (NBC, Fox, Disney, Amazon Prime Video) are emphasizing AI integration, data-driven outcomes, and live events at 2026 upfront presentations—signaling a structural shift in how TV ad buyers evaluate campaigns.]]&gt;</ns1:encoded>
     </item>
     <item>
       <title>ActBlue scrutiny fuels new GOP bills to tighten election donation rules: House Republicans introduce Campaign Finance Transparency Act targeting donation processors</title>
       <link>https://noticias.foxnews.com/politics/actblue-scrutiny-fuels-new-gop-bills-tighten-election-donation-rules</link>
       <guid isPermaLink="true">https://noticias.foxnews.com/politics/actblue-scrutiny-fuels-new-gop-bills-tighten-election-donation-rules</guid>
-      <pubDate>Mon, 11 May 2026 22:08:05 +0000</pubDate>
+      <pubDate>Mon, 11 May 2026 22:08:05 GMT</pubDate>
       <description>House Administration Committee Chair Bryan Steil introduced bills targeting donation processors like ActBlue, requiring name verification, citizenship checks, and banning gift card donations—following revelations about foreign donations.</description>
       <category>Fox News</category>
-    </item>
-    <item>
-      <title>Outside spending reaches fever pitch in Nebraska congressional primary: $5.6M in PAC ad spending, dark money flows into competitive Democratic race</title>
-      <link>https://nebraskapublicmedia.org/en/news/news-articles/outside-spending-reaches-fever-pitch-in-nebraska-congressional-primary-as-candidates-spar-over-dark-money/</link>
-      <guid isPermaLink="true">https://nebraskapublicmedia.org/en/news/news-articles/outside-spending-reaches-fever-pitch-in-nebraska-congressional-primary-as-candidates-spar-over-dark-money/</guid>
-      <pubDate>Mon, 11 May 2026 22:08:05 +0000</pubDate>
-      <description>The Democratic primary for Nebraska's 2nd congressional district has attracted $5.6M in outside PAC spending, with Fight for Nebraska PAC leading at $2M. The race features 12+ PACs and raises questions about dark money transparency.</description>
-      <category>Nebraska Public Media</category>
-    </item>
-    <item>
-      <title>Inside the wild fight to oust a top GOP Trump critic: Kentucky GOP primary becomes most expensive House race with $25.6M in ad spending, featuring AI deepfakes</title>
-      <link>https://www.axios.com/2026/05/11/thomas-massie-ed-gallrein-kentucky-aipac-trump</link>
-      <guid isPermaLink="true">https://www.axios.com/2026/05/11/thomas-massie-ed-gallrein-kentucky-aipac-trump</guid>
-      <pubDate>Mon, 11 May 2026 22:08:05 +0000</pubDate>
-      <description>The Kentucky 4th district House primary between Rep. Thomas Massie and Trump-backed Ed Gallrein has become the most expensive U.S. House primary in history with over $25.6M in spending, featuring AI-generated deepfakes and unprecedented negative advertising.</description>
-      <category>Axios</category>
-    </item>
-    <item>
-      <title>Wedbush Upgrades The Trade Desk From Underperform: Political Ad Spending Set to Offset Competitive Pressures in H2 2026</title>
-      <link>https://www.aol.com/articles/wedbush-upgrades-trade-desk-underperform-150148734.html</link>
-      <guid isPermaLink="true">https://www.aol.com/articles/wedbush-upgrades-trade-desk-underperform-150148734.html</guid>
-      <pubDate>Mon, 11 May 2026 14:08:57 +0000</pubDate>
-      <description>Wedbush upgraded Trade Desk (TTD) to Neutral from Underperform, citing World Cup advertising spending and political ad budgets in H2 2026 as tailwinds. The analyst sees bear-case capitulation and narrowing downside risk on DSP stock.</description>
-      <category>AOL/24/7 Wall St</category>
-      <content:encoded>&lt;p&gt;Wedbush upgraded Trade Desk (TTD) to Neutral from Underperform, citing World Cup advertising spending and political ad budgets in H2 2026 as tailwinds. The analyst sees bear-case capitulation and narrowing downside risk on DSP stock.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://s.yimg.com/lo/mysterio/api/4B94AF6B9A204F9348F175C9139A082F594537586BEE138D191E35846BA77C75/subgraphmysterio/resizefill_w976_h595;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st_aol_articles_169%2F4999760c344b0b56041afffbcad21f99&quot; alt=&quot;Wedbush Upgrades The Trade Desk From Underperform: Political Ad Spending Set to Offset Competitive Pressures in H2 2026&quot; /&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Experts Warn of Political Campaigns Made Fake by AI: Deepfakes Now Pose Real Threat to 2026 Midterms</title>
-      <link>https://www.heraldmailmedia.com/story/news/local/2026/05/11/experts-warn-of-political-campaigns-made-fake-by-ai/89992236007/</link>
-      <guid isPermaLink="true">https://www.heraldmailmedia.com/story/news/local/2026/05/11/experts-warn-of-political-campaigns-made-fake-by-ai/89992236007/</guid>
-      <pubDate>Mon, 11 May 2026 14:08:57 +0000</pubDate>
-      <description>Experts warn AI-generated deepfakes have become hyper-realistic in 2026, with multiple examples already deployed in Senate races. Tech to detect fakes remains unreliable, and the &quot;liar's dividend&quot; problem complicates response. 29 states now have deepfake disclosure laws.</description>
-      <category>Herald-Mail Media</category>
-    </item>
-    <item>
-      <title>Amazon's Interactive CTV Ad Suits Now Includes Creative Optimization</title>
-      <link>https://www.adexchanger.com/tv/amazons-interactive-ctv-ad-suits-now-includes-creative-optimization/</link>
-      <guid isPermaLink="true">https://www.adexchanger.com/tv/amazons-interactive-ctv-ad-suits-now-includes-creative-optimization/</guid>
-      <pubDate>Mon, 11 May 2026 14:08:57 +0000</pubDate>
-      <description>Amazon Ads launched Dynamic TV Creative, an AI-powered tool that customizes interactive ad elements (headlines, CTAs, buttons) based on shopper journey and household data. Rolling out to live sports in Q3—a major expansion for political campaigns.</description>
-      <category>AdExchanger</category>
-      <content:encoded>&lt;p&gt;Amazon Ads launched Dynamic TV Creative, an AI-powered tool that customizes interactive ad elements (headlines, CTAs, buttons) based on shopper journey and household data. Rolling out to live sports in Q3—a major expansion for political campaigns.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://www.adexchanger.com/wp-content/uploads/2026/05/amazon-prime-video-tv-1024x678.jpg&quot; alt=&quot;Amazon's Interactive CTV Ad Suits Now Includes Creative Optimization&quot; /&gt;&lt;/p&gt;</content:encoded>
+      <ns1:encoded>&lt;![CDATA[House Administration Committee Chair Bryan Steil introduced bills targeting donation processors like ActBlue, requiring name verification, citizenship checks, and banning gift card donations—following revelations about foreign donations.]]&gt;</ns1:encoded>
     </item>
   </channel>
 </rss>
